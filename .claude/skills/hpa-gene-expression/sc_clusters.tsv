@@ -1,0 +1,1176 @@
+web_tissue	tissue	cluster	cell_type	cells	included
+adipose tissue	adipose tissue	c-0	mesothelial cells	8942	TRUE
+adipose tissue	adipose tissue	c-1	adipocytes	6996	TRUE
+adipose tissue	adipose tissue	c-2	adipocytes	6993	TRUE
+adipose tissue	adipose tissue	c-3	macrophages	6032	TRUE
+adipose tissue	adipose tissue	c-4	mesothelial cells	5837	TRUE
+adipose tissue	adipose tissue	c-5	fibro-adipogenic progenitors	5584	TRUE
+adipose tissue	adipose tissue	c-6	fibro-adipogenic progenitors	4109	TRUE
+adipose tissue	adipose tissue	c-7	fibro-adipogenic progenitors	2972	TRUE
+adipose tissue	adipose tissue	c-8	t-cells	1469	FALSE
+adipose tissue	adipose tissue	c-9	adipocytes	1130	TRUE
+adipose tissue	adipose tissue	c-10	vascular endothelial cells	965	TRUE
+adipose tissue	adipose tissue	c-11	vascular endothelial cells	920	TRUE
+adipose tissue	adipose tissue	c-12	mixed immune	890	FALSE
+adipose tissue	adipose tissue	c-13	vascular endothelial cells	843	TRUE
+adipose tissue	adipose tissue	c-14	lymphatic endothelial cells	825	TRUE
+adipose tissue	adipose tissue	c-15	pericytes	529	TRUE
+adipose tissue	adipose tissue	c-16	monocytes	482	FALSE
+adipose tissue	adipose tissue	c-17	mast cells	383	TRUE
+adipose tissue	adipose tissue	c-18	vascular smooth muscle cells	256	TRUE
+adipose tissue	adipose tissue	c-19	vascular smooth muscle cells	139	TRUE
+adipose tissue	adipose tissue	c-20	cdc	124	TRUE
+adipose tissue	adipose tissue	c-21	b-cells	124	TRUE
+adipose tissue	adipose tissue	c-22	skeletal muscle cells	63	FALSE
+adipose tissue	adipose tissue	c-23	cdc	59	TRUE
+adipose tissue	adipose tissue	c-24	pdcs	20	FALSE
+adipose tissue	adipose tissue	c-25	cdc	17	FALSE
+adipose tissue	adipose tissue	c-26	stromal cells	13	FALSE
+adipose tissue	adipose tissue	c-27	schwann cells	8	FALSE
+adrenal gland	adrenal gland	c-0	adrenal cortex cells	3363	TRUE
+adrenal gland	adrenal gland	c-1	adrenal cortex cells	295	TRUE
+adrenal gland	adrenal gland	c-2	adrenal cortex cells	202	TRUE
+adrenal gland	adrenal gland	c-3	macrophages	186	FALSE
+adrenal gland	adrenal gland	c-4	vascular endothelial cells	108	FALSE
+adrenal gland	adrenal gland	c-5	adrenal medulla cells	94	TRUE
+adrenal gland	adrenal gland	c-6	stromal cells	70	FALSE
+adrenal gland	adrenal gland	c-7	t-cells	12	FALSE
+blood	blood	c-0	neutrophils	6365	TRUE
+blood	blood	c-1	neutrophils	5598	TRUE
+blood	blood	c-2	monocytes	3987	TRUE
+blood	blood	c-3	monocytes	3861	TRUE
+blood	blood	c-4	monocytes	3078	TRUE
+blood	blood	c-5	neutrophils	2967	TRUE
+blood	blood	c-6	neutrophils	1801	TRUE
+blood	blood	c-7	neutrophils	1749	TRUE
+blood	blood	c-8	neutrophils	1669	TRUE
+blood	blood	c-9	nk-cells	1392	TRUE
+blood	blood	c-10	neutrophil progenitors	1167	TRUE
+blood	blood	c-11	b-cells	1024	TRUE
+blood	blood	c-12	erythrocytes	985	TRUE
+blood	blood	c-13	t-cells	856	TRUE
+blood	blood	c-14	erythrocytes	775	TRUE
+blood	blood	c-15	t-cells	726	TRUE
+blood	blood	c-16	monocytes	562	TRUE
+blood	blood	c-17	neutrophil progenitors	330	TRUE
+blood	blood	c-18	platelets	183	TRUE
+blood	blood	c-19	plasma cells	24	TRUE
+blood	blood	c-20	pdcs	14	TRUE
+bone marrow	bone marrow	c-0	neutrophils	1283	TRUE
+bone marrow	bone marrow	c-1	neutrophils	887	TRUE
+bone marrow	bone marrow	c-2	neutrophils	804	TRUE
+bone marrow	bone marrow	c-3	monocytes	658	TRUE
+bone marrow	bone marrow	c-4	neutrophils	641	TRUE
+bone marrow	bone marrow	c-5	nk-cells	589	TRUE
+bone marrow	bone marrow	c-6	t-cells	410	TRUE
+bone marrow	bone marrow	c-7	t-cells	364	TRUE
+bone marrow	bone marrow	c-8	b-cells	306	TRUE
+bone marrow	bone marrow	c-9	t-cells	279	TRUE
+bone marrow	bone marrow	c-10	t-cells	260	TRUE
+bone marrow	bone marrow	c-11	monocyte progenitors	256	TRUE
+bone marrow	bone marrow	c-12	t-cells	253	TRUE
+bone marrow	bone marrow	c-13	b-cells	231	TRUE
+bone marrow	bone marrow	c-14	macrophages	217	TRUE
+bone marrow	bone marrow	c-15	plasma cells	196	TRUE
+bone marrow	bone marrow	c-16	monocyte progenitors	168	TRUE
+bone marrow	bone marrow	c-17	monocytes	164	TRUE
+bone marrow	bone marrow	c-18	erythrocytes	157	FALSE
+bone marrow	bone marrow	c-19	monocytes	127	TRUE
+bone marrow	bone marrow	c-20	t-cells	106	TRUE
+bone marrow	bone marrow	c-21	hematopoietic stem cells	98	TRUE
+bone marrow	bone marrow	c-22	erythrocytes	94	TRUE
+bone marrow	bone marrow	c-23	neutrophil progenitors	91	TRUE
+bone marrow	bone marrow	c-24	t-cells	79	TRUE
+bone marrow	bone marrow	c-25	neutrophil progenitors	71	TRUE
+bone marrow	bone marrow	c-26	monocyte progenitors	67	TRUE
+bone marrow	bone marrow	c-27	neutrophil progenitors	67	TRUE
+bone marrow	bone marrow	c-28	monocyte progenitors	65	TRUE
+bone marrow	bone marrow	c-29	neutrophil progenitors	62	TRUE
+bone marrow	bone marrow	c-30	mixed cell types	56	FALSE
+bone marrow	bone marrow	c-31	megakaryocyte-erythroid progenitors	53	TRUE
+bone marrow	bone marrow	c-32	erythrocyte progenitors	53	TRUE
+bone marrow	bone marrow	c-33	megakaryocyte progenitors	52	TRUE
+bone marrow	bone marrow	c-34	neutrophil progenitors	51	TRUE
+bone marrow	bone marrow	c-35	megakaryocyte-erythroid progenitors	39	TRUE
+bone marrow	bone marrow	c-36	monocytes	30	TRUE
+bone marrow	bone marrow	c-37	megakaryocyte progenitors	26	TRUE
+bone marrow	bone marrow	c-38	megakaryocytes	24	TRUE
+bone marrow	bone marrow	c-39	erythrocyte progenitors	23	TRUE
+bone marrow	bone marrow	c-40	mixed cell types	23	FALSE
+bone marrow	bone marrow	c-41	erythrocyte progenitors	21	TRUE
+bone marrow	bone marrow	c-42	multipotent progenitors	13	FALSE
+bone marrow	bone marrow	c-43	mast cells	10	FALSE
+bone marrow	bone marrow	c-44	pdcs	7	FALSE
+bone marrow	bone marrow	c-45	stromal cells	6	FALSE
+brain	brain neurons	c-0	brain excitatory neurons	12841	TRUE
+brain	brain neurons	c-1	brain excitatory neurons	7017	TRUE
+brain	brain neurons	c-2	brain excitatory neurons	5397	TRUE
+brain	brain neurons	c-3	brain inhibitory neurons	5012	TRUE
+brain	brain neurons	c-4	brain inhibitory neurons	3323	TRUE
+brain	brain neurons	c-5	brain inhibitory neurons	3248	TRUE
+brain	brain neurons	c-6	brain excitatory neurons	3146	TRUE
+brain	brain neurons	c-7	brain inhibitory neurons	3094	TRUE
+brain	brain neurons	c-8	brain inhibitory neurons	3052	TRUE
+brain	brain neurons	c-9	brain inhibitory neurons	3039	TRUE
+brain	brain neurons	c-10	brain excitatory neurons	2895	TRUE
+brain	brain neurons	c-11	brain excitatory neurons	2797	TRUE
+brain	brain neurons	c-12	brain inhibitory neurons	2777	TRUE
+brain	brain neurons	c-13	other brain neurons	2732	FALSE
+brain	brain neurons	c-14	brain inhibitory neurons	2653	TRUE
+brain	brain neurons	c-15	brain inhibitory neurons	2567	TRUE
+brain	brain neurons	c-16	brain inhibitory neurons	2503	TRUE
+brain	brain neurons	c-17	brain excitatory neurons	2453	TRUE
+brain	brain neurons	c-18	other brain neurons	2411	TRUE
+brain	brain neurons	c-19	brain excitatory neurons	2225	TRUE
+brain	brain neurons	c-20	brain excitatory neurons	2188	TRUE
+brain	brain neurons	c-21	brain inhibitory neurons	2095	TRUE
+brain	brain neurons	c-22	brain excitatory neurons	2075	TRUE
+brain	brain neurons	c-23	brain excitatory neurons	1947	TRUE
+brain	brain neurons	c-24	brain excitatory neurons	1854	TRUE
+brain	brain neurons	c-25	brain excitatory neurons	1813	TRUE
+brain	brain neurons	c-26	brain excitatory neurons	1773	TRUE
+brain	brain neurons	c-27	brain inhibitory neurons	1704	TRUE
+brain	brain neurons	c-28	brain inhibitory neurons	1496	TRUE
+brain	brain neurons	c-29	brain inhibitory neurons	1401	TRUE
+brain	brain neurons	c-30	brain excitatory neurons	1240	TRUE
+brain	brain neurons	c-31	brain excitatory neurons	1190	TRUE
+brain	brain neurons	c-32	brain excitatory neurons	1061	TRUE
+brain	brain neurons	c-33	brain inhibitory neurons	1019	TRUE
+brain	brain neurons	c-34	brain inhibitory neurons	1017	TRUE
+brain	brain neurons	c-35	brain inhibitory neurons	1005	TRUE
+brain	brain neurons	c-36	other brain neurons	963	FALSE
+brain	brain neurons	c-37	brain excitatory neurons	935	TRUE
+brain	brain neurons	c-38	other brain neurons	841	FALSE
+brain	brain neurons	c-39	brain inhibitory neurons	694	TRUE
+brain	brain neurons	c-40	brain inhibitory neurons	653	TRUE
+brain	brain neurons	c-41	brain excitatory neurons	615	TRUE
+brain	brain neurons	c-42	brain inhibitory neurons	611	TRUE
+brain	brain neurons	c-43	brain excitatory neurons	601	TRUE
+brain	brain neurons	c-44	brain excitatory neurons	536	TRUE
+brain	brain neurons	c-45	other brain neurons	526	FALSE
+brain	brain neurons	c-46	brain inhibitory neurons	522	TRUE
+brain	brain neurons	c-47	brain excitatory neurons	503	TRUE
+brain	brain neurons	c-48	brain inhibitory neurons	501	TRUE
+brain	brain neurons	c-49	other brain neurons	480	TRUE
+brain	brain neurons	c-50	brain excitatory neurons	453	TRUE
+brain	brain neurons	c-51	brain excitatory neurons	444	TRUE
+brain	brain neurons	c-52	brain excitatory neurons	430	TRUE
+brain	brain neurons	c-53	brain inhibitory neurons	425	TRUE
+brain	brain neurons	c-54	brain excitatory neurons	371	TRUE
+brain	brain neurons	c-55	other brain neurons	368	FALSE
+brain	brain neurons	c-56	brain excitatory neurons	367	TRUE
+brain	brain neurons	c-57	brain excitatory neurons	358	TRUE
+brain	brain neurons	c-58	brain inhibitory neurons	358	TRUE
+brain	brain neurons	c-59	brain excitatory neurons	352	TRUE
+brain	brain neurons	c-60	brain excitatory neurons	346	TRUE
+brain	brain neurons	c-61	other brain neurons	331	TRUE
+brain	brain neurons	c-62	brain inhibitory neurons	329	TRUE
+brain	brain neurons	c-63	brain excitatory neurons	306	TRUE
+brain	brain neurons	c-64	other brain neurons	299	TRUE
+brain	brain neurons	c-65	brain excitatory neurons	274	TRUE
+brain	brain neurons	c-66	brain inhibitory neurons	229	TRUE
+brain	brain neurons	c-67	brain inhibitory neurons	199	TRUE
+brain	brain neurons	c-68	other brain neurons	180	TRUE
+brain	brain neurons	c-69	brain excitatory neurons	165	TRUE
+brain	brain neurons	c-70	brain excitatory neurons	160	TRUE
+brain	brain neurons	c-71	brain excitatory neurons	148	TRUE
+brain	brain neurons	c-72	brain inhibitory neurons	146	TRUE
+brain	brain neurons	c-73	brain excitatory neurons	146	TRUE
+brain	brain neurons	c-74	brain inhibitory neurons	139	TRUE
+brain	brain neurons	c-75	brain excitatory neurons	135	TRUE
+brain	brain neurons	c-76	other brain neurons	135	TRUE
+brain	brain neurons	c-77	other brain neurons	111	TRUE
+brain	brain neurons	c-78	other brain neurons	87	TRUE
+brain	brain neurons	c-79	brain inhibitory neurons	87	TRUE
+brain	brain neurons	c-80	other brain neurons	77	TRUE
+brain	brain neurons	c-81	other brain neurons	69	TRUE
+brain	brain neurons	c-82	brain inhibitory neurons	63	TRUE
+brain	brain neurons	c-83	other brain neurons	46	FALSE
+brain	brain neurons	c-84	brain excitatory neurons	45	TRUE
+brain	brain neurons	c-85	other brain neurons	44	TRUE
+brain	brain neurons	c-86	other brain neurons	38	FALSE
+brain	brain neurons	c-87	brain inhibitory neurons	33	TRUE
+brain	brain neurons	c-88	brain inhibitory neurons	30	TRUE
+brain	brain neurons	c-89	other brain neurons	28	FALSE
+brain	brain neurons	c-90	brain excitatory neurons	22	TRUE
+brain	brain neurons	c-91	brain excitatory neurons	16	TRUE
+brain	brain neurons	c-92	brain excitatory neurons	16	TRUE
+brain	brain neurons	c-93	brain inhibitory neurons	9	TRUE
+brain	brain neurons	c-94	brain inhibitory neurons	4	TRUE
+brain	brain non-neurons	c-0	bergmann glia	7533	TRUE
+brain	brain non-neurons	c-1	choroid plexus epithelial cells	5057	TRUE
+brain	brain non-neurons	c-2	oligodendrocyte progenitor cells	5049	TRUE
+brain	brain non-neurons	c-3	microglia	4332	TRUE
+brain	brain non-neurons	c-4	astrocytes	3728	TRUE
+brain	brain non-neurons	c-5	oligodendrocytes	3302	TRUE
+brain	brain non-neurons	c-6	fibroblasts	3214	TRUE
+brain	brain non-neurons	c-7	ependymal cells	2779	TRUE
+brain	brain non-neurons	c-8	oligodendrocyte progenitor cells	2682	TRUE
+brain	brain non-neurons	c-9	microglia	2534	TRUE
+brain	brain non-neurons	c-10	oligodendrocytes	2338	TRUE
+brain	brain non-neurons	c-11	astrocytes	2176	TRUE
+brain	brain non-neurons	c-12	oligodendrocytes	1834	TRUE
+brain	brain non-neurons	c-13	astrocytes	1661	TRUE
+brain	brain non-neurons	c-14	vascular endothelial cells	1533	TRUE
+brain	brain non-neurons	c-15	oligodendrocytes	1222	TRUE
+brain	brain non-neurons	c-16	oligodendrocytes	1174	TRUE
+brain	brain non-neurons	c-17	pericytes	1166	TRUE
+brain	brain non-neurons	c-18	t-cells	999	TRUE
+brain	brain non-neurons	c-19	choroid plexus epithelial cells	966	TRUE
+brain	brain non-neurons	c-20	ependymal cells	723	TRUE
+brain	brain non-neurons	c-21	fibroblasts	689	FALSE
+brain	brain non-neurons	c-22	vascular endothelial cells	437	TRUE
+brain	brain non-neurons	c-23	vascular endothelial cells	299	TRUE
+brain	brain non-neurons	c-24	nk-cells	285	TRUE
+brain	brain non-neurons	c-25	vascular smooth muscle cells	263	TRUE
+brain	brain non-neurons	c-26	macrophages	249	TRUE
+brain	brain non-neurons	c-27	monocytes	136	TRUE
+brain	brain non-neurons	c-28	microglia	133	TRUE
+brain	brain non-neurons	c-29	astrocytes	102	TRUE
+brain	brain non-neurons	c-30	oligodendrocytes	77	TRUE
+brain	brain non-neurons	c-31	b-cells	38	TRUE
+breast	breast	c-0	t-cells	2948	TRUE
+breast	breast	c-1	t-cells	2713	TRUE
+breast	breast	c-2	vascular endothelial cells	2691	TRUE
+breast	breast	c-3	fibroblasts	2531	TRUE
+breast	breast	c-4	breast hormone-responsive cells	2239	TRUE
+breast	breast	c-5	fibroblasts	2223	TRUE
+breast	breast	c-6	breast hormone-responsive cells	1663	TRUE
+breast	breast	c-7	breast secretory cells	1639	TRUE
+breast	breast	c-8	t-cells	1291	TRUE
+breast	breast	c-9	t-cells	1184	TRUE
+breast	breast	c-10	breast hormone-responsive cells	925	TRUE
+breast	breast	c-11	vascular smooth muscle cells	708	TRUE
+breast	breast	c-12	vascular endothelial cells	548	TRUE
+breast	breast	c-13	t-cells	500	TRUE
+breast	breast	c-14	t-cells	423	TRUE
+breast	breast	c-15	breast lactating cells	420	TRUE
+breast	breast	c-16	t-cells	397	TRUE
+breast	breast	c-17	vascular endothelial cells	375	TRUE
+breast	breast	c-18	pericytes	268	TRUE
+breast	breast	c-19	macrophages	243	TRUE
+breast	breast	c-20	lymphatic endothelial cells	183	TRUE
+breast	breast	c-21	macrophages	178	TRUE
+breast	breast	c-22	monocytes	174	TRUE
+breast	breast	c-23	cdc	149	TRUE
+breast	breast	c-24	breast secretory cells	116	TRUE
+breast	breast	c-25	b-cells	101	TRUE
+breast	breast	c-26	fibroblasts	88	TRUE
+breast	breast	c-27	breast myoepithelial cells	86	TRUE
+breast	breast	c-28	plasma cells	76	TRUE
+breast	breast	c-29	pdcs	31	TRUE
+breast	breast	c-30	innate lymphoid cells	24	TRUE
+breast	breast	c-31	cdc	24	TRUE
+breast	breast	c-32	cycling immune cells	16	FALSE
+colon	colon	c-0	colonocytes	765	TRUE
+colon	colon	c-1	colonocytes	670	TRUE
+colon	colon	c-2	enteric stem cells	657	TRUE
+colon	colon	c-3	colonocytes	592	TRUE
+colon	colon	c-4	colonocytes	584	TRUE
+colon	colon	c-5	colonocytes	580	TRUE
+colon	colon	c-6	goblet cells	565	TRUE
+colon	colon	c-7	colonocytes	484	TRUE
+colon	colon	c-8	goblet cells	395	TRUE
+colon	colon	c-9	enteric transient amplifying cells	310	TRUE
+colon	colon	c-10	colonocytes	309	TRUE
+colon	colon	c-11	colonocytes	287	TRUE
+colon	colon	c-12	enteric transient amplifying cells	206	TRUE
+colon	colon	c-13	enteric transient amplifying cells	199	TRUE
+colon	colon	c-14	t-cells	149	TRUE
+colon	colon	c-15	colonocytes	108	TRUE
+colon	colon	c-16	t-cells	95	TRUE
+colon	colon	c-17	epithelial cells	91	FALSE
+colon	colon	c-18	t-cells	79	TRUE
+colon	colon	c-19	nk-cells	60	TRUE
+colon	colon	c-20	neuroendocrine cells	55	TRUE
+colon	colon	c-21	tuft cells	47	TRUE
+colon	colon	c-22	mast cells	22	FALSE
+colon	colon	c-23	b-cells	19	FALSE
+colon	colon	c-24	epithelial cells	11	FALSE
+endometrium	endometrium	c-0	endometrial glandular cells	12755	TRUE
+endometrium	endometrium	c-1	endometrial luminal cells	9952	TRUE
+endometrium	endometrium	c-2	endometrial stromal cells	5815	TRUE
+endometrium	endometrium	c-3	endometrial stromal cells	5671	TRUE
+endometrium	endometrium	c-4	endometrial stromal cells	5023	TRUE
+endometrium	endometrium	c-5	endometrial glandular cells	4320	TRUE
+endometrium	endometrium	c-6	endometrial stromal cells	3492	TRUE
+endometrium	endometrium	c-7	endometrial stromal cells	3467	TRUE
+endometrium	endometrium	c-8	endometrial ciliated cells	2839	TRUE
+endometrium	endometrium	c-9	endometrial glandular cells	2678	TRUE
+endometrium	endometrium	c-10	endometrial glandular cells	2339	TRUE
+endometrium	endometrium	c-11	endometrial luminal cells	2330	TRUE
+endometrium	endometrium	c-12	endometrial glandular cells	1967	TRUE
+endometrium	endometrium	c-13	endometrial stromal cells	1843	TRUE
+endometrium	endometrium	c-14	endometrial glandular cells	1804	FALSE
+endometrium	endometrium	c-15	vascular endothelial cells	1793	TRUE
+endometrium	endometrium	c-16	t-cells	1627	TRUE
+endometrium	endometrium	c-17	mural cells	1371	FALSE
+endometrium	endometrium	c-18	nk-cells	1321	TRUE
+endometrium	endometrium	c-19	endometrial ciliated cells	1211	FALSE
+endometrium	endometrium	c-20	endometrial glandular cells	1106	TRUE
+endometrium	endometrium	c-21	endometrial glandular cells	1102	TRUE
+endometrium	endometrium	c-22	endometrial luminal cells	1096	TRUE
+endometrium	endometrium	c-23	endometrial glandular cells	992	TRUE
+endometrium	endometrium	c-24	endometrial luminal cells	968	TRUE
+endometrium	endometrium	c-25	endometrial luminal cells	889	TRUE
+endometrium	endometrium	c-26	endometrial stromal cells	868	TRUE
+endometrium	endometrium	c-27	endometrial glandular cells	858	TRUE
+endometrium	endometrium	c-28	endometrial glandular cells	828	FALSE
+endometrium	endometrium	c-29	endometrial luminal cells	776	TRUE
+endometrium	endometrium	c-30	nk-cells	768	TRUE
+endometrium	endometrium	c-31	endometrial luminal cells	737	TRUE
+endometrium	endometrium	c-32	t-cells	523	TRUE
+endometrium	endometrium	c-33	endometrial luminal cells	499	TRUE
+endometrium	endometrium	c-34	macrophages	350	TRUE
+endometrium	endometrium	c-35	innate lymphoid cells	301	TRUE
+endometrium	endometrium	c-36	endometrial luminal cells	300	FALSE
+endometrium	endometrium	c-37	endometrial ciliated cells	290	TRUE
+endometrium	endometrium	c-38	t-cells	283	TRUE
+endometrium	endometrium	c-39	endometrial glandular cells	266	FALSE
+endometrium	endometrium	c-40	endometrial secretory cells	124	TRUE
+endometrium	endometrium	c-41	b-cells	70	TRUE
+endometrium	endometrium	c-42	innate lymphoid cells	55	TRUE
+endometrium	endometrium	c-43	endometrial glandular cells	54	TRUE
+endometrium	endometrium	c-44	cervical basal progenitor cells	47	FALSE
+endometrium	endometrium	c-45	pdcs	45	TRUE
+endometrium	endometrium	c-46	endometrial ciliated cells	35	TRUE
+endometrium	endometrium	c-47	lymphatic endothelial cells	31	TRUE
+epididymis	epididymis	c-0	epididymal principal cells	1265	TRUE
+epididymis	epididymis	c-1	epididymal basal cells	1198	TRUE
+epididymis	epididymis	c-2	epididymal efferent duct absorptive cells	1192	TRUE
+epididymis	epididymis	c-3	epididymal efferent duct absorptive cells	830	TRUE
+epididymis	epididymis	c-4	epididymal principal cells	720	TRUE
+epididymis	epididymis	c-5	epididymal principal cells	658	TRUE
+epididymis	epididymis	c-6	epididymal principal cells	521	TRUE
+epididymis	epididymis	c-7	epididymal principal cells	476	TRUE
+epididymis	epididymis	c-8	t-cells	394	TRUE
+epididymis	epididymis	c-9	t-cells	374	TRUE
+epididymis	epididymis	c-10	vascular smooth muscle cells	364	TRUE
+epididymis	epididymis	c-11	macrophages	300	FALSE
+epididymis	epididymis	c-12	epididymal efferent duct ciliated cells	294	TRUE
+epididymis	epididymis	c-13	vascular endothelial cells	263	TRUE
+epididymis	epididymis	c-14	dendritic cells	249	FALSE
+epididymis	epididymis	c-15	vascular endothelial cells	249	TRUE
+epididymis	epididymis	c-16	mast cells	204	TRUE
+epididymis	epididymis	c-17	vascular endothelial cells	141	TRUE
+epididymis	epididymis	c-18	pericytes	114	TRUE
+epididymis	epididymis	c-19	fibroblasts	84	TRUE
+epididymis	epididymis	c-20	fibroblasts	75	TRUE
+epididymis	epididymis	c-21	vascular endothelial cells	61	TRUE
+epididymis	epididymis	c-22	epididymal clear cells	46	TRUE
+epididymis	epididymis	c-23	dendritic cells	41	FALSE
+epididymis	epididymis	c-24	late spermatids	31	FALSE
+epididymis	epididymis	c-25	late primary spermatocytes	7	FALSE
+esophagus	esophagus	c-0	esophageal suprabasal cells	14251	TRUE
+esophagus	esophagus	c-1	esophageal basal cells	12051	TRUE
+esophagus	esophagus	c-2	esophageal suprabasal cells	10751	TRUE
+esophagus	esophagus	c-3	esophageal apical cells	9025	TRUE
+esophagus	esophagus	c-4	esophageal apical cells	7593	TRUE
+esophagus	esophagus	c-5	esophageal basal cells	5403	TRUE
+esophagus	esophagus	c-6	esophageal basal cells	4880	TRUE
+esophagus	esophagus	c-7	vascular endothelial cells	490	TRUE
+esophagus	esophagus	c-8	t-cells	487	TRUE
+esophagus	esophagus	c-9	submucosal glandular cells	397	TRUE
+esophagus	esophagus	c-10	b-cells	363	TRUE
+esophagus	esophagus	c-11	macrophages	328	TRUE
+esophagus	esophagus	c-12	t-cells	266	TRUE
+esophagus	esophagus	c-13	fibroblasts	214	TRUE
+esophagus	esophagus	c-14	vascular endothelial cells	88	TRUE
+esophagus	esophagus	c-15	vascular endothelial cells	69	TRUE
+esophagus	esophagus	c-16	lymphatic endothelial cells	67	TRUE
+esophagus	esophagus	c-17	nk-cells	61	FALSE
+esophagus	esophagus	c-18	monocytes	44	FALSE
+esophagus	esophagus	c-19	mast cells	33	FALSE
+eye	eye	c-0	b-cells	3271	TRUE
+eye	eye	c-1	ocular epithelial cells	1763	TRUE
+eye	eye	c-2	t-cells	1648	TRUE
+eye	eye	c-3	vascular endothelial cells	1435	TRUE
+eye	eye	c-4	b-cells	1357	TRUE
+eye	eye	c-5	rod photoreceptor cells	1323	TRUE
+eye	eye	c-6	ocular epithelial cells	1247	TRUE
+eye	eye	c-7	t-cells	1208	TRUE
+eye	eye	c-8	fibroblasts	1174	TRUE
+eye	eye	c-9	ocular epithelial cells	1124	TRUE
+eye	eye	c-10	b-cells	1045	TRUE
+eye	eye	c-11	ocular epithelial cells	929	TRUE
+eye	eye	c-12	ocular epithelial cells	862	TRUE
+eye	eye	c-13	t-cells	789	TRUE
+eye	eye	c-14	ocular epithelial cells	661	TRUE
+eye	eye	c-15	fibroblasts	654	TRUE
+eye	eye	c-16	ocular epithelial cells	601	TRUE
+eye	eye	c-17	plasma cells	563	TRUE
+eye	eye	c-18	macrophages	547	TRUE
+eye	eye	c-19	t-cells	528	TRUE
+eye	eye	c-20	ocular epithelial cells	524	TRUE
+eye	eye	c-21	ocular epithelial cells	484	TRUE
+eye	eye	c-22	vascular smooth muscle cells	472	TRUE
+eye	eye	c-23	ocular epithelial cells	468	TRUE
+eye	eye	c-24	fibroblasts	457	TRUE
+eye	eye	c-25	vascular endothelial cells	433	TRUE
+eye	eye	c-26	t-cells	417	TRUE
+eye	eye	c-27	t-cells	406	TRUE
+eye	eye	c-28	lymphatic endothelial cells	396	TRUE
+eye	eye	c-29	monocytes	385	TRUE
+eye	eye	c-30	nk-cells	354	TRUE
+eye	eye	c-31	macrophages	341	TRUE
+eye	eye	c-32	melanocytes	253	TRUE
+eye	eye	c-33	vascular endothelial cells	178	TRUE
+eye	eye	c-34	t-cells	169	TRUE
+eye	eye	c-35	neutrophils	130	TRUE
+eye	eye	c-36	macrophages	96	FALSE
+eye	eye	c-37	müller glia	88	FALSE
+eye	eye	c-38	mast cells	85	TRUE
+eye	eye	c-39	b-cells	83	TRUE
+eye	eye	c-40	pericytes	81	TRUE
+eye	eye	c-41	lacrimal acinar cells	70	TRUE
+eye	eye	c-42	melanocytes	64	TRUE
+eye	eye	c-43	mixed cell types	55	FALSE
+eye	eye	c-44	fibroblasts	54	TRUE
+eye	eye	c-45	retinal bipolar cells	49	FALSE
+eye	eye	c-46	conjunctival goblet cells	45	TRUE
+eye	eye	c-47	schwann cells	33	TRUE
+eye	eye	c-48	retinal amacrine cells	19	FALSE
+eye	eye	c-49	cone photoreceptor cells	15	FALSE
+eye	eye	c-50	retinal pigment epithelial cells	14	TRUE
+eye	eye	c-51	oligodendrocytes	11	FALSE
+eye	eye	c-52	retinal horizontal cells	6	FALSE
+eye	retina	c-0	rod photoreceptor cells	995	TRUE
+eye	retina	c-1	müller glia	828	TRUE
+eye	retina	c-2	rod photoreceptor cells	786	TRUE
+eye	retina	c-3	rod photoreceptor cells	714	TRUE
+eye	retina	c-4	rod photoreceptor cells	553	TRUE
+eye	retina	c-5	rod photoreceptor cells	409	TRUE
+eye	retina	c-6	retinal bipolar cells	337	TRUE
+eye	retina	c-7	müller glia	307	TRUE
+eye	retina	c-8	retinal bipolar cells	305	TRUE
+eye	retina	c-9	retinal bipolar cells	257	TRUE
+eye	retina	c-10	müller glia	238	TRUE
+eye	retina	c-11	rod photoreceptor cells	224	TRUE
+eye	retina	c-12	retinal bipolar cells	165	TRUE
+eye	retina	c-13	retinal amacrine cells	152	TRUE
+eye	retina	c-14	retinal bipolar cells	112	TRUE
+eye	retina	c-15	retinal horizontal cells	105	TRUE
+eye	retina	c-16	retinal amacrine cells	87	FALSE
+eye	retina	c-17	retinal bipolar cells	72	TRUE
+eye	retina	c-18	cone photoreceptor cells	70	TRUE
+eye	retina	c-19	retinal bipolar cells	64	TRUE
+eye	retina	c-20	retinal bipolar cells	64	TRUE
+eye	retina	c-21	retinal bipolar cells	60	TRUE
+eye	retina	c-22	retinal bipolar cells	56	TRUE
+eye	retina	c-23	retinal bipolar cells	49	TRUE
+eye	retina	c-24	retinal bipolar cells	37	TRUE
+eye	retina	c-25	retinal bipolar cells	35	TRUE
+eye	retina	c-26	retinal amacrine cells	27	TRUE
+eye	retina	c-27	retinal horizontal cells	24	FALSE
+eye	retina	c-28	retinal amacrine cells	22	TRUE
+eye	retina	c-29	retinal ganglion cells	21	TRUE
+eye	retina	c-30	astrocytes	18	FALSE
+eye	retina	c-31	microglia	16	FALSE
+eye	retina	c-32	mural & epithelial cells	13	FALSE
+fallopian tube	fallopian tube	c-0	fallopian secretory cells	10028	TRUE
+fallopian tube	fallopian tube	c-1	fibroblasts	9800	TRUE
+fallopian tube	fallopian tube	c-2	fibroblasts	4981	TRUE
+fallopian tube	fallopian tube	c-3	smooth muscle cells	3519	TRUE
+fallopian tube	fallopian tube	c-4	fallopian tube ciliated cells	2733	TRUE
+fallopian tube	fallopian tube	c-5	t-cells	2478	TRUE
+fallopian tube	fallopian tube	c-6	vascular endothelial cells	2370	TRUE
+fallopian tube	fallopian tube	c-7	t-cells	2283	TRUE
+fallopian tube	fallopian tube	c-8	lymphatic endothelial cells	2155	TRUE
+fallopian tube	fallopian tube	c-9	vascular smooth muscle cells	1907	TRUE
+fallopian tube	fallopian tube	c-10	mast cells	1543	TRUE
+fallopian tube	fallopian tube	c-11	monocytes	1263	TRUE
+fallopian tube	fallopian tube	c-12	macrophages	1116	TRUE
+fallopian tube	fallopian tube	c-13	t-cells	1012	TRUE
+fallopian tube	fallopian tube	c-14	vascular endothelial cells	661	TRUE
+fallopian tube	fallopian tube	c-15	nk-cells	609	TRUE
+fallopian tube	fallopian tube	c-16	vascular endothelial cells	354	TRUE
+fallopian tube	fallopian tube	c-17	t-cells	253	TRUE
+fallopian tube	fallopian tube	c-18	plasma cells	201	TRUE
+fallopian tube	fallopian tube	c-19	pericytes	142	TRUE
+fallopian tube	fallopian tube	c-20	innate lymphoid cells	76	TRUE
+fallopian tube	fallopian tube	c-21	vascular endothelial cells	41	FALSE
+fallopian tube	fallopian tube	c-22	fallopian basal stem cells	18	FALSE
+heart muscle	heart muscle	c-0	cardiomyocytes	9040	TRUE
+heart muscle	heart muscle	c-1	cardiomyocytes	8200	TRUE
+heart muscle	heart muscle	c-2	cardiomyocytes	5886	TRUE
+heart muscle	heart muscle	c-3	cardiomyocytes	5840	TRUE
+heart muscle	heart muscle	c-4	fibroblasts	3432	TRUE
+heart muscle	heart muscle	c-5	cardiomyocytes	2833	TRUE
+heart muscle	heart muscle	c-6	macrophages	1379	TRUE
+heart muscle	heart muscle	c-7	vascular endothelial cells	1053	TRUE
+heart muscle	heart muscle	c-8	pericytes	567	TRUE
+heart muscle	heart muscle	c-9	cardiomyocytes	487	TRUE
+heart muscle	heart muscle	c-10	cardiomyocytes	458	TRUE
+heart muscle	heart muscle	c-11	epicardial cells	347	TRUE
+heart muscle	heart muscle	c-12	cardiomyocytes	279	TRUE
+heart muscle	heart muscle	c-13	vascular smooth muscle cells	217	TRUE
+heart muscle	heart muscle	c-14	adipocytes	151	TRUE
+heart muscle	heart muscle	c-15	t-cells	116	FALSE
+heart muscle	heart muscle	c-16	mast cells	56	FALSE
+heart muscle	heart muscle	c-17	pericytes	47	FALSE
+kidney	kidney	c-0	proximal tubule cells	7332	TRUE
+kidney	kidney	c-1	loop of henle epithelial cells	6933	TRUE
+kidney	kidney	c-2	renal collecting duct principal cells	5086	TRUE
+kidney	kidney	c-3	fibroblasts	3771	TRUE
+kidney	kidney	c-4	proximal tubule cells	3132	TRUE
+kidney	kidney	c-5	distal convoluted tubule cells	2897	TRUE
+kidney	kidney	c-6	renal collecting duct intercalated cells	2828	TRUE
+kidney	kidney	c-7	renal connecting tubule cells	2404	TRUE
+kidney	kidney	c-8	loop of henle epithelial cells	2357	TRUE
+kidney	kidney	c-9	loop of henle epithelial cells	2157	TRUE
+kidney	kidney	c-10	renal collecting duct principal cells	1722	TRUE
+kidney	kidney	c-11	vascular endothelial cells	1660	TRUE
+kidney	kidney	c-12	vascular endothelial cells	1635	TRUE
+kidney	kidney	c-13	loop of henle epithelial cells	1590	TRUE
+kidney	kidney	c-14	proximal tubule cells	1579	TRUE
+kidney	kidney	c-15	fibroblasts	1542	TRUE
+kidney	kidney	c-16	loop of henle epithelial cells	1328	TRUE
+kidney	kidney	c-17	proximal tubule cells	1080	TRUE
+kidney	kidney	c-18	vascular endothelial cells	1078	TRUE
+kidney	kidney	c-19	loop of henle epithelial cells	780	TRUE
+kidney	kidney	c-20	macrophages	740	TRUE
+kidney	kidney	c-21	pericytes	728	TRUE
+kidney	kidney	c-22	podocytes	689	TRUE
+kidney	kidney	c-23	vascular endothelial cells	657	TRUE
+kidney	kidney	c-24	papillary tip epithelial cells	583	TRUE
+kidney	kidney	c-25	renal collecting duct intercalated cells	533	TRUE
+kidney	kidney	c-26	loop of henle epithelial cells	521	TRUE
+kidney	kidney	c-27	t-cells	425	TRUE
+kidney	kidney	c-28	parietal epithelial cells	395	FALSE
+kidney	kidney	c-29	macrophages	372	FALSE
+kidney	kidney	c-30	renal collecting duct principal cells	367	TRUE
+kidney	kidney	c-31	fibroblasts	329	TRUE
+kidney	kidney	c-32	vascular smooth muscle cells	292	TRUE
+kidney	kidney	c-33	smooth muscle cells	224	FALSE
+kidney	kidney	c-34	t-cells	207	TRUE
+kidney	kidney	c-35	vascular endothelial cells	206	TRUE
+kidney	kidney	c-36	mesangial cells	173	FALSE
+kidney	kidney	c-37	b-cells	156	TRUE
+kidney	kidney	c-38	monocytes	96	FALSE
+kidney	kidney	c-39	nk-cells	81	TRUE
+kidney	kidney	c-40	lymphatic endothelial cells	74	TRUE
+kidney	kidney	c-41	plasma cells	45	FALSE
+kidney	kidney	c-42	mast cells	40	FALSE
+kidney	kidney	c-43	cdc	31	FALSE
+kidney	kidney	c-44	pdcs	26	FALSE
+kidney	kidney	c-45	schwann cells	16	FALSE
+kidney	kidney	c-46	cdc	16	FALSE
+kidney	kidney	c-47	neutrophils	9	FALSE
+kidney	kidney	c-48	adipocytes	7	FALSE
+liver	liver	c-0	hepatocytes	682	TRUE
+liver	liver	c-1	hepatocytes	534	TRUE
+liver	liver	c-2	t-cells	515	TRUE
+liver	liver	c-3	t-cells	484	TRUE
+liver	liver	c-4	nk-cells	440	TRUE
+liver	liver	c-5	hepatocytes	418	TRUE
+liver	liver	c-6	hepatocytes	376	TRUE
+liver	liver	c-7	macrophages	375	TRUE
+liver	liver	c-8	hepatocytes	348	TRUE
+liver	liver	c-9	nk-cells	333	TRUE
+liver	liver	c-10	vascular endothelial cells	320	TRUE
+liver	liver	c-11	monocytes	299	TRUE
+liver	liver	c-12	vascular endothelial cells	275	TRUE
+liver	liver	c-13	kupffer cells	224	TRUE
+liver	liver	c-14	vascular endothelial cells	223	TRUE
+liver	liver	c-15	plasma cells	118	TRUE
+liver	liver	c-16	b-cells	101	TRUE
+liver	liver	c-17	hepatocytes	79	TRUE
+liver	liver	c-18	hepatocytes	75	TRUE
+liver	liver	c-19	cholangiocytes	73	TRUE
+liver	liver	c-20	hepatic stellate cells	33	TRUE
+liver	liver	c-21	nk-cells	31	TRUE
+liver	liver	c-22	nk-cells	26	TRUE
+liver	liver	c-23	cholangiocytes	22	TRUE
+lung	lung	c-0	macrophages	7139	TRUE
+lung	lung	c-1	alveolar cells type 2	6373	TRUE
+lung	lung	c-2	vascular endothelial cells	6278	TRUE
+lung	lung	c-3	vascular endothelial cells	3001	TRUE
+lung	lung	c-4	macrophages	2772	TRUE
+lung	lung	c-5	alveolar cells type 1	2608	TRUE
+lung	lung	c-6	monocytes	2536	TRUE
+lung	lung	c-7	macrophages	1926	TRUE
+lung	lung	c-8	macrophages	1295	TRUE
+lung	lung	c-9	t-cells	1285	TRUE
+lung	lung	c-10	nk-cells	1252	TRUE
+lung	lung	c-11	mast cells	1237	TRUE
+lung	lung	c-12	alveolar cells type 2	1235	TRUE
+lung	lung	c-13	transitional alveolar cells	1176	TRUE
+lung	lung	c-14	vascular endothelial cells	1132	TRUE
+lung	lung	c-15	t-cells	874	TRUE
+lung	lung	c-16	t-cells	803	TRUE
+lung	lung	c-17	t-cells	710	TRUE
+lung	lung	c-18	vascular endothelial cells	688	TRUE
+lung	lung	c-19	respiratory basal cells	677	TRUE
+lung	lung	c-20	alveolar cells type 2	614	TRUE
+lung	lung	c-21	respiratory secretory cells	607	TRUE
+lung	lung	c-22	respiratory basal cells	581	TRUE
+lung	lung	c-23	pericytes	517	TRUE
+lung	lung	c-24	neutrophils	385	TRUE
+lung	lung	c-25	fibroblasts	360	TRUE
+lung	lung	c-26	monocytes	350	TRUE
+lung	lung	c-27	vascular smooth muscle cells	289	TRUE
+lung	lung	c-28	respiratory ciliated cells	285	TRUE
+lung	lung	c-29	fibroblasts	282	TRUE
+lung	lung	c-30	b-cells	274	TRUE
+lung	lung	c-31	respiratory ciliated cells	268	TRUE
+lung	lung	c-32	t-cells	232	TRUE
+lung	lung	c-33	lymphatic endothelial cells	230	TRUE
+lung	lung	c-34	t-cells	168	TRUE
+lung	lung	c-35	fibroblasts	123	TRUE
+lung	lung	c-36	fibroblasts	121	TRUE
+lung	lung	c-37	submucosal glandular cells	86	TRUE
+lung	lung	c-38	respiratory basal cells	74	TRUE
+lung	lung	c-39	plasma cells	48	TRUE
+lung	lung	c-40	innate lymphoid cells	42	TRUE
+lung	lung	c-41	pericytes	38	TRUE
+lung	lung	c-42	respiratory deuterosomal cells	31	TRUE
+lung	lung	c-43	respiratory ionocytes	31	TRUE
+lung	lung	c-44	submucosal glandular cells	30	TRUE
+lung	lung	c-45	cdc	29	FALSE
+lung	lung	c-46	mesothelial cells	20	FALSE
+lung	lung	c-47	pdcs	18	TRUE
+lung	lung	c-48	schwann cells	7	FALSE
+lymph node	lymph node	c-0	t-cells	7190	TRUE
+lymph node	lymph node	c-1	b-cells	6315	TRUE
+lymph node	lymph node	c-2	b-cells	5920	TRUE
+lymph node	lymph node	c-3	t-cells	5248	TRUE
+lymph node	lymph node	c-4	b-cells	5140	TRUE
+lymph node	lymph node	c-5	t-cells	4981	TRUE
+lymph node	lymph node	c-6	b-cells	4278	TRUE
+lymph node	lymph node	c-7	t-cells	4215	TRUE
+lymph node	lymph node	c-8	t-cells	3769	TRUE
+lymph node	lymph node	c-9	t-cells	2361	TRUE
+lymph node	lymph node	c-10	b-cells	2245	TRUE
+lymph node	lymph node	c-11	b-cells	1550	TRUE
+lymph node	lymph node	c-12	plasma cells	1113	TRUE
+lymph node	lymph node	c-13	plasma cells	883	TRUE
+lymph node	lymph node	c-14	innate lymphoid cells	882	TRUE
+lymph node	lymph node	c-15	t-cells	633	TRUE
+lymph node	lymph node	c-16	monocytes	451	TRUE
+lymph node	lymph node	c-17	macrophages	420	TRUE
+lymph node	lymph node	c-18	t-cells	415	TRUE
+lymph node	lymph node	c-19	neutrophils	360	TRUE
+lymph node	lymph node	c-20	nk-cells	230	TRUE
+lymph node	lymph node	c-21	mast cells	217	TRUE
+lymph node	lymph node	c-22	nk-cells	172	TRUE
+lymph node	lymph node	c-23	cdc	165	TRUE
+lymph node	lymph node	c-24	macrophages	138	TRUE
+lymph node	lymph node	c-25	t-cells	125	FALSE
+lymph node	lymph node	c-26	fibroblasts	71	TRUE
+lymph node	lymph node	c-27	lymphatic endothelial cells	61	TRUE
+lymph node	lymph node	c-28	vascular endothelial cells	51	TRUE
+lymph node	lymph node	c-29	cdc	46	TRUE
+lymph node	lymph node	c-30	cdc	43	TRUE
+lymph node	lymph node	c-31	vascular endothelial cells	24	TRUE
+lymph node	lymph node	c-32	pdcs	5	FALSE
+ovary	ovary	c-0	ovarian stromal cells	1508	TRUE
+ovary	ovary	c-1	ovarian stromal cells	1583	TRUE
+ovary	ovary	c-2	ovarian stromal cells	1321	TRUE
+ovary	ovary	c-3	ovarian stromal cells	1474	TRUE
+ovary	ovary	c-4	vascular endothelial cells	1294	TRUE
+ovary	ovary	c-5	ovarian stromal cells	2258	TRUE
+ovary	ovary	c-6	ovarian stromal cells	886	TRUE
+ovary	ovary	c-7	vascular smooth muscle cells	1847	TRUE
+ovary	ovary	c-8	ovarian stromal cells	2599	TRUE
+ovary	ovary	c-9	ovarian stromal cells	503	TRUE
+ovary	ovary	c-10	ovarian stromal cells	1536	TRUE
+ovary	ovary	c-11	ovarian stromal cells	617	TRUE
+ovary	ovary	c-12	ovarian stromal cells	1118	TRUE
+ovary	ovary	c-13	ovarian stromal cells	1073	TRUE
+ovary	ovary	c-14	pericytes	747	TRUE
+ovary	ovary	c-15	ovarian stromal cells	1927	TRUE
+ovary	ovary	c-16	macrophages	56	TRUE
+ovary	ovary	c-17	ovarian stromal cells	410	TRUE
+ovary	ovary	c-18	granulosa cells	172	TRUE
+ovary	ovary	c-19	schwann cells	17	FALSE
+ovary	ovary	c-20	oocytes	34	TRUE
+ovary	ovary	c-21	ovarian stromal cells	1483	TRUE
+ovary	ovary	c-22	t-cells	137	TRUE
+ovary	ovary	c-23	lymphatic endothelial cells	78	TRUE
+ovary	ovary	c-24	oocytes	14	FALSE
+pancreas	pancreas	c-0	vascular endothelial cells	22625	TRUE
+pancreas	pancreas	c-1	vascular endothelial cells	20804	TRUE
+pancreas	pancreas	c-2	pancreatic duct cells	8823	TRUE
+pancreas	pancreas	c-3	pancreatic islet cells	3996	TRUE
+pancreas	pancreas	c-4	pancreatic acinar cells	2470	TRUE
+pancreas	pancreas	c-5	fibroblasts	2455	TRUE
+pancreas	pancreas	c-6	macrophages	2283	TRUE
+pancreas	pancreas	c-7	vascular endothelial cells	2176	TRUE
+pancreas	pancreas	c-8	macrophages	1888	TRUE
+pancreas	pancreas	c-9	pancreatic islet cells	1716	TRUE
+pancreas	pancreas	c-10	macrophages	1513	TRUE
+pancreas	pancreas	c-11	pericytes	1504	TRUE
+pancreas	pancreas	c-12	vascular endothelial cells	1426	TRUE
+pancreas	pancreas	c-13	pancreatic islet cells	1330	TRUE
+pancreas	pancreas	c-14	pancreatic duct cells	1208	TRUE
+pancreas	pancreas	c-15	mast cells	1009	TRUE
+pancreas	pancreas	c-16	monocytes	966	TRUE
+pancreas	pancreas	c-17	t-cells	726	FALSE
+pancreas	pancreas	c-18	pancreatic islet cells	351	TRUE
+pancreas	pancreas	c-19	vascular endothelial cells	300	TRUE
+pancreas	pancreas	c-20	macrophages	225	TRUE
+pancreas	pancreas	c-21	nk-cells	147	FALSE
+pancreas	pancreas	c-22	pancreatic islet cells	76	TRUE
+pancreas	pancreas	c-23	pancreatic islet cells	68	TRUE
+pancreas	pancreas	c-24	b-cells	68	FALSE
+pituitary gland	pituitary gland	c-0	pituicytes/fscs	1112	TRUE
+pituitary gland	pituitary gland	c-1	lactotrophs	1072	TRUE
+pituitary gland	pituitary gland	c-2	corticotrophs	1016	TRUE
+pituitary gland	pituitary gland	c-3	somatotrophs	973	TRUE
+pituitary gland	pituitary gland	c-4	pituicytes/fscs	966	TRUE
+pituitary gland	pituitary gland	c-5	pituitary stem cells	879	TRUE
+pituitary gland	pituitary gland	c-6	pituicytes/fscs	859	TRUE
+pituitary gland	pituitary gland	c-7	gonadotrophs	670	TRUE
+pituitary gland	pituitary gland	c-8	thyrotrophs	445	TRUE
+pituitary gland	pituitary gland	c-9	lactotrophs	426	TRUE
+pituitary gland	pituitary gland	c-10	lactotrophs	303	TRUE
+pituitary gland	pituitary gland	c-11	macrophages	255	TRUE
+pituitary gland	pituitary gland	c-12	pituicytes/fscs	225	TRUE
+pituitary gland	pituitary gland	c-13	somatotrophs	132	TRUE
+pituitary gland	pituitary gland	c-14	t-cells	100	TRUE
+pituitary gland	pituitary gland	c-15	vascular endothelial cells	57	TRUE
+pituitary gland	pituitary gland	c-16	vascular endothelial cells	56	TRUE
+pituitary gland	pituitary gland	c-17	gonadotrophs	55	TRUE
+pituitary gland	pituitary gland	c-18	gonadotrophs	44	TRUE
+pituitary gland	pituitary gland	c-19	mural cells	38	FALSE
+pituitary gland	pituitary gland	c-20	mural cells	36	FALSE
+pituitary gland	pituitary gland	c-21	pituitary stem cells	36	TRUE
+pituitary gland	pituitary gland	c-22	pericytes	28	TRUE
+pituitary gland	pituitary gland	c-23	ependymal cells	7	FALSE
+pituitary gland	pituitary gland	c-24	b-cells	6	FALSE
+placenta	placenta	c-0	cytotrophoblasts	2374	TRUE
+placenta	placenta	c-1	fibroblasts	2218	TRUE
+placenta	placenta	c-2	cytotrophoblasts	1914	TRUE
+placenta	placenta	c-3	cytotrophoblasts	1667	TRUE
+placenta	placenta	c-4	extravillous trophoblasts	1631	TRUE
+placenta	placenta	c-5	hofbauer cells	1396	TRUE
+placenta	placenta	c-6	extravillous trophoblasts	1297	TRUE
+placenta	placenta	c-7	decidual stromal cells	1233	TRUE
+placenta	placenta	c-8	cytotrophoblasts	1129	TRUE
+placenta	placenta	c-9	macrophages	1058	FALSE
+placenta	placenta	c-10	migrating cytotrophoblasts	1054	TRUE
+placenta	placenta	c-11	migrating cytotrophoblasts	789	TRUE
+placenta	placenta	c-12	syncytiotrophoblasts	421	TRUE
+placenta	placenta	c-13	cytotrophoblasts	382	TRUE
+placenta	placenta	c-14	cytotrophoblasts	364	TRUE
+placenta	placenta	c-15	syncytiotrophoblasts	326	TRUE
+placenta	placenta	c-16	monocytes	309	FALSE
+placenta	placenta	c-17	syncytiotrophoblasts	305	TRUE
+placenta	placenta	c-18	fibroblasts	177	TRUE
+placenta	placenta	c-19	pericytes	176	TRUE
+placenta	placenta	c-20	fetal progenitors	164	FALSE
+placenta	placenta	c-21	t-cells	163	FALSE
+placenta	placenta	c-22	vascular endothelial cells	106	TRUE
+placenta	placenta	c-23	lymphatic endothelial cells	83	FALSE
+placenta	placenta	c-24	fetal immune cells	54	FALSE
+placenta	placenta	c-25	fetal progenitors	43	FALSE
+placenta	placenta	c-26	fibroblasts	40	TRUE
+placenta	placenta	c-27	glandular and luminal cells	39	FALSE
+placenta	placenta	c-28	mural cells	35	FALSE
+placenta	placenta	c-29	decidual stromal cells	22	TRUE
+prostate	prostate	c-0	t-cells	1229	TRUE
+prostate	prostate	c-1	macrophages	355	TRUE
+prostate	prostate	c-2	prostatic glandular cells	355	TRUE
+prostate	prostate	c-3	prostatic glandular cells	307	TRUE
+prostate	prostate	c-4	prostatic hillock cells	284	TRUE
+prostate	prostate	c-5	vascular endothelial cells	276	TRUE
+prostate	prostate	c-6	prostatic club cells	261	TRUE
+prostate	prostate	c-7	neutrophils	255	TRUE
+prostate	prostate	c-8	prostatic glandular cells	238	TRUE
+prostate	prostate	c-9	prostatic club cells	204	FALSE
+prostate	prostate	c-10	prostatic glandular cells	200	FALSE
+prostate	prostate	c-11	basal prostatic cells	182	TRUE
+prostate	prostate	c-12	prostatic glandular cells	175	TRUE
+prostate	prostate	c-13	prostatic glandular cells	164	FALSE
+prostate	prostate	c-14	macrophages	154	TRUE
+prostate	prostate	c-15	fibroblasts	104	TRUE
+prostate	prostate	c-16	t-cells	93	TRUE
+prostate	prostate	c-17	vascular smooth muscle cells	83	TRUE
+prostate	prostate	c-18	prostatic hillock cells	80	FALSE
+prostate	prostate	c-19	monocytes	77	TRUE
+prostate	prostate	c-20	prostatic glandular cells	76	TRUE
+prostate	prostate	c-21	fibroblasts	75	TRUE
+prostate	prostate	c-22	b-cells	58	FALSE
+prostate	prostate	c-23	t-cells	53	TRUE
+prostate	prostate	c-24	pericytes	39	TRUE
+prostate	prostate	c-25	vascular endothelial cells	38	TRUE
+prostate	prostate	c-26	nk-cells	36	TRUE
+prostate	prostate	c-27	fibroblasts	28	TRUE
+prostate	prostate	c-28	vascular endothelial cells	24	TRUE
+prostate	prostate	c-29	lymphatic endothelial cells	23	TRUE
+prostate	prostate	c-30	mast cells	20	FALSE
+prostate	prostate	c-31	cycling epithelial cells	12	FALSE
+prostate	prostate	c-32	myonuclei	6	FALSE
+rectum	rectum	c-0	colonocytes	631	TRUE
+rectum	rectum	c-1	goblet cells	514	TRUE
+rectum	rectum	c-2	colonocytes	358	TRUE
+rectum	rectum	c-3	enteric stem cells	354	TRUE
+rectum	rectum	c-4	colonocytes	327	TRUE
+rectum	rectum	c-5	colonocytes	283	TRUE
+rectum	rectum	c-6	colonocytes	257	TRUE
+rectum	rectum	c-7	enteric transient amplifying cells	256	TRUE
+rectum	rectum	c-8	goblet cells	224	TRUE
+rectum	rectum	c-9	goblet cells	162	TRUE
+rectum	rectum	c-10	colonocytes	119	TRUE
+rectum	rectum	c-11	colonocytes	114	TRUE
+rectum	rectum	c-12	neuroendocrine cells	62	TRUE
+rectum	rectum	c-13	neuroendocrine cells	46	TRUE
+rectum	rectum	c-14	b-cells	28	FALSE
+rectum	rectum	c-15	t-cells	24	FALSE
+rectum	rectum	c-16	plasma cells	15	FALSE
+rectum	rectum	c-17	b-cells	8	FALSE
+salivary gland	salivary gland	c-0	salivary acinar cells	3529	TRUE
+salivary gland	salivary gland	c-1	t-cells	3505	TRUE
+salivary gland	salivary gland	c-2	fibroblasts	3073	TRUE
+salivary gland	salivary gland	c-3	salivary acinar cells	2555	TRUE
+salivary gland	salivary gland	c-4	b-cells	2485	TRUE
+salivary gland	salivary gland	c-5	salivary acinar cells	2217	TRUE
+salivary gland	salivary gland	c-6	b-cells	1625	TRUE
+salivary gland	salivary gland	c-7	salivary duct cells	1393	TRUE
+salivary gland	salivary gland	c-8	vascular endothelial cells	1261	TRUE
+salivary gland	salivary gland	c-9	salivary basal cells	1065	TRUE
+salivary gland	salivary gland	c-10	salivary acinar cells	980	TRUE
+salivary gland	salivary gland	c-11	macrophages	961	TRUE
+salivary gland	salivary gland	c-12	fibroblasts	881	TRUE
+salivary gland	salivary gland	c-13	macrophages	846	TRUE
+salivary gland	salivary gland	c-14	salivary acinar cells	841	TRUE
+salivary gland	salivary gland	c-15	salivary acinar cells	774	FALSE
+salivary gland	salivary gland	c-16	t-cells	604	TRUE
+salivary gland	salivary gland	c-17	salivary acinar cells	543	TRUE
+salivary gland	salivary gland	c-18	neutrophils	516	TRUE
+salivary gland	salivary gland	c-19	salivary acinar cells	450	TRUE
+salivary gland	salivary gland	c-20	t-cells	398	TRUE
+salivary gland	salivary gland	c-21	t-cells	396	TRUE
+salivary gland	salivary gland	c-22	plasma cells	393	TRUE
+salivary gland	salivary gland	c-23	salivary myoepithelial cells	390	TRUE
+salivary gland	salivary gland	c-24	macrophages	354	TRUE
+salivary gland	salivary gland	c-25	nk-cells	335	TRUE
+salivary gland	salivary gland	c-26	lymphatic endothelial cells	333	TRUE
+salivary gland	salivary gland	c-27	vascular endothelial cells	318	TRUE
+salivary gland	salivary gland	c-28	monocytes	299	TRUE
+salivary gland	salivary gland	c-29	vascular smooth muscle cells	286	TRUE
+salivary gland	salivary gland	c-30	salivary ionocytes	196	TRUE
+salivary gland	salivary gland	c-31	fibroblasts	196	TRUE
+salivary gland	salivary gland	c-32	vascular endothelial cells	190	TRUE
+salivary gland	salivary gland	c-33	mast cells	164	TRUE
+salivary gland	salivary gland	c-34	t-cells	152	TRUE
+salivary gland	salivary gland	c-35	salivary acinar cells	122	FALSE
+salivary gland	salivary gland	c-36	t-cells	103	TRUE
+salivary gland	salivary gland	c-37	cycling immune cells	91	FALSE
+salivary gland	salivary gland	c-38	innate lymphoid cells	82	TRUE
+salivary gland	salivary gland	c-39	mixed cell types	77	FALSE
+salivary gland	salivary gland	c-40	pericytes	46	TRUE
+salivary gland	salivary gland	c-41	cycling salivary epithelial cells	38	FALSE
+salivary gland	salivary gland	c-42	fibroblasts	26	TRUE
+salivary gland	salivary gland	c-43	schwann cells	22	FALSE
+skeletal muscle	skeletal muscle	c-0	myonuclei	1912	TRUE
+skeletal muscle	skeletal muscle	c-1	myonuclei	1584	TRUE
+skeletal muscle	skeletal muscle	c-2	myonuclei	1269	TRUE
+skeletal muscle	skeletal muscle	c-3	myonuclei	1140	TRUE
+skeletal muscle	skeletal muscle	c-4	myonuclei	1057	TRUE
+skeletal muscle	skeletal muscle	c-5	myonuclei	966	TRUE
+skeletal muscle	skeletal muscle	c-6	myonuclei	961	TRUE
+skeletal muscle	skeletal muscle	c-7	myonuclei	884	TRUE
+skeletal muscle	skeletal muscle	c-8	myonuclei	789	TRUE
+skeletal muscle	skeletal muscle	c-9	fibro-adipogenic progenitors	738	TRUE
+skeletal muscle	skeletal muscle	c-10	myonuclei	642	TRUE
+skeletal muscle	skeletal muscle	c-11	myonuclei	548	TRUE
+skeletal muscle	skeletal muscle	c-12	myonuclei	543	TRUE
+skeletal muscle	skeletal muscle	c-13	myonuclei	392	TRUE
+skeletal muscle	skeletal muscle	c-14	myosatellite cells	379	TRUE
+skeletal muscle	skeletal muscle	c-15	myonuclei	305	TRUE
+skeletal muscle	skeletal muscle	c-16	macrophages	266	TRUE
+skeletal muscle	skeletal muscle	c-17	myonuclei	135	TRUE
+skeletal muscle	skeletal muscle	c-18	vascular endothelial cells	56	TRUE
+skeletal muscle	skeletal muscle	c-19	adipocytes	40	TRUE
+skeletal muscle	skeletal muscle	c-20	vascular smooth muscle cells	33	TRUE
+skeletal muscle	skeletal muscle	c-21	myonuclei	33	TRUE
+skeletal muscle	skeletal muscle	c-22	pericytes	33	TRUE
+skeletal muscle	skeletal muscle	c-23	vascular endothelial cells	32	TRUE
+skeletal muscle	skeletal muscle	c-24	t-cells	31	FALSE
+skeletal muscle	skeletal muscle	c-25	vascular endothelial cells	22	TRUE
+skeletal muscle	skeletal muscle	c-26	nk-cells	15	FALSE
+skeletal muscle	skeletal muscle	c-27	mast cells	10	FALSE
+skin	skin	c-0	fibroblasts	2065	TRUE
+skin	skin	c-1	fibroblasts	1989	TRUE
+skin	skin	c-2	cdc	1954	TRUE
+skin	skin	c-3	fibroblasts	1757	TRUE
+skin	skin	c-4	vascular endothelial cells	1607	TRUE
+skin	skin	c-5	basal keratinocytes	999	TRUE
+skin	skin	c-6	t-cells	917	TRUE
+skin	skin	c-7	fibroblasts	720	TRUE
+skin	skin	c-8	suprabasal keratinocytes	578	TRUE
+skin	skin	c-9	vascular smooth muscle cells	533	TRUE
+skin	skin	c-10	pericytes	503	TRUE
+skin	skin	c-11	vascular smooth muscle cells	365	TRUE
+skin	skin	c-12	lymphatic endothelial cells	327	TRUE
+skin	skin	c-13	t-cells	291	TRUE
+skin	skin	c-14	t-cells	215	TRUE
+skin	skin	c-15	t-cells	180	TRUE
+skin	skin	c-16	macrophages	133	TRUE
+skin	skin	c-17	cdc	127	TRUE
+skin	skin	c-18	melanocytes	115	TRUE
+skin	skin	c-19	t-cells	85	TRUE
+skin	skin	c-20	smooth muscle cells	45	TRUE
+skin	skin	c-21	cdc	27	FALSE
+skin	skin	c-22	mast cells	17	FALSE
+skin	skin	c-23	plasma cells	12	FALSE
+skin	skin	c-24	langerhans cells	11	FALSE
+skin	skin	c-25	schwann cells	7	FALSE
+small intestine	small intestine	c-0	enterocytes	992	TRUE
+small intestine	small intestine	c-1	goblet cells	929	TRUE
+small intestine	small intestine	c-2	enterocytes	917	TRUE
+small intestine	small intestine	c-3	enterocytes	838	TRUE
+small intestine	small intestine	c-4	enterocytes	766	TRUE
+small intestine	small intestine	c-5	enterocytes	559	TRUE
+small intestine	small intestine	c-6	enteric transient amplifying cells	421	TRUE
+small intestine	small intestine	c-7	enterocytes	349	TRUE
+small intestine	small intestine	c-8	enterocytes	330	TRUE
+small intestine	small intestine	c-9	enteric transient amplifying cells	290	TRUE
+small intestine	small intestine	c-10	enteric stem cells	211	TRUE
+small intestine	small intestine	c-11	enteric transient amplifying cells	201	TRUE
+small intestine	small intestine	c-12	goblet cells	185	TRUE
+small intestine	small intestine	c-13	enterocytes	102	TRUE
+small intestine	small intestine	c-14	neuroendocrine cells	48	TRUE
+small intestine	small intestine	c-15	paneth cells	28	TRUE
+small intestine	small intestine	c-16	neuroendocrine cells	28	TRUE
+small intestine	small intestine	c-17	nk-cells	27	FALSE
+spleen	spleen	c-0	neutrophils	7010	TRUE
+spleen	spleen	c-1	b-cells	6470	TRUE
+spleen	spleen	c-2	neutrophils	5943	TRUE
+spleen	spleen	c-3	t-cells	4578	TRUE
+spleen	spleen	c-4	nk-cells	3347	TRUE
+spleen	spleen	c-5	t-cells	3134	TRUE
+spleen	spleen	c-6	monocytes	3065	TRUE
+spleen	spleen	c-7	b-cells	2210	TRUE
+spleen	spleen	c-8	monocytes	2019	TRUE
+spleen	spleen	c-9	t-cells	1943	TRUE
+spleen	spleen	c-10	plasma cells	1795	TRUE
+spleen	spleen	c-11	t-cells	1352	TRUE
+spleen	spleen	c-12	macrophages	1183	TRUE
+spleen	spleen	c-13	b-cells	951	TRUE
+spleen	spleen	c-14	lymphatic endothelial cells	663	TRUE
+spleen	spleen	c-15	nk-cells	555	TRUE
+spleen	spleen	c-16	neutrophil progenitors	550	TRUE
+spleen	spleen	c-17	erythrocytes	438	TRUE
+spleen	spleen	c-18	platelets	266	TRUE
+spleen	spleen	c-19	t-cells	172	TRUE
+spleen	spleen	c-20	innate lymphoid cells	116	TRUE
+spleen	spleen	c-21	mural cells	16	FALSE
+stomach	stomach	c-0	b-cells	3901	TRUE
+stomach	stomach	c-1	plasma cells	2395	TRUE
+stomach	stomach	c-2	t-cells	2029	TRUE
+stomach	stomach	c-3	plasma cells	1994	TRUE
+stomach	stomach	c-4	plasma cells	1707	TRUE
+stomach	stomach	c-5	plasma cells	1519	TRUE
+stomach	stomach	c-6	plasma cells	1368	TRUE
+stomach	stomach	c-7	t-cells	1325	TRUE
+stomach	stomach	c-8	b-cells	1198	TRUE
+stomach	stomach	c-9	b-cells	702	TRUE
+stomach	stomach	c-10	plasma cells	669	TRUE
+stomach	stomach	c-11	fibroblasts	504	TRUE
+stomach	stomach	c-12	foveolar cells	491	TRUE
+stomach	stomach	c-13	b-cells	443	TRUE
+stomach	stomach	c-14	vascular endothelial cells	442	TRUE
+stomach	stomach	c-15	foveolar cells	337	TRUE
+stomach	stomach	c-16	fibroblasts	332	TRUE
+stomach	stomach	c-17	mucous neck cells	322	TRUE
+stomach	stomach	c-18	gastric progenitor cells	310	TRUE
+stomach	stomach	c-19	plasma cells	306	TRUE
+stomach	stomach	c-20	t-cells	296	TRUE
+stomach	stomach	c-21	gastric chief cells	293	TRUE
+stomach	stomach	c-22	macrophages	276	TRUE
+stomach	stomach	c-23	parietal cells	211	TRUE
+stomach	stomach	c-24	fibroblasts	209	TRUE
+stomach	stomach	c-25	mast cells	178	TRUE
+stomach	stomach	c-26	monocytes	159	TRUE
+stomach	stomach	c-27	vascular endothelial cells	155	TRUE
+stomach	stomach	c-28	intestinal stem cells	151	FALSE
+stomach	stomach	c-29	mucous neck cells	150	TRUE
+stomach	stomach	c-30	t-cells	142	TRUE
+stomach	stomach	c-31	foveolar cells	134	TRUE
+stomach	stomach	c-32	nk-cells	127	TRUE
+stomach	stomach	c-33	neuroendocrine cells	114	TRUE
+stomach	stomach	c-34	vascular smooth muscle cells	113	TRUE
+stomach	stomach	c-35	enterocytes	106	FALSE
+stomach	stomach	c-36	fibroblasts	101	TRUE
+stomach	stomach	c-37	vascular endothelial cells	83	TRUE
+stomach	stomach	c-38	b-cells	81	TRUE
+stomach	stomach	c-39	enterocytes	75	FALSE
+stomach	stomach	c-40	pericytes	68	TRUE
+stomach	stomach	c-41	b-cells	39	FALSE
+stomach	stomach	c-42	macrophages	36	FALSE
+stomach	stomach	c-43	goblet cells	30	FALSE
+stomach	stomach	c-44	lymphatic endothelial cells	21	FALSE
+stomach	stomach	c-45	innate lymphoid cells	17	FALSE
+stomach	stomach	c-46	enterocytes	14	FALSE
+stomach	stomach	c-47	cdc	11	FALSE
+stomach	stomach	c-48	cdc	8	FALSE
+stomach	stomach	c-49	tuft cells	6	FALSE
+testis	testis	c-0	leydig cells	1822	TRUE
+testis	testis	c-1	late spermatids	849	TRUE
+testis	testis	c-2	leydig cells	828	TRUE
+testis	testis	c-3	late spermatids	616	TRUE
+testis	testis	c-4	late spermatids	607	TRUE
+testis	testis	c-5	late spermatids	576	TRUE
+testis	testis	c-6	early spermatids	473	TRUE
+testis	testis	c-7	differentiating spermatogonia	469	TRUE
+testis	testis	c-8	late primary spermatocytes	439	TRUE
+testis	testis	c-9	early primary spermatocytes	433	TRUE
+testis	testis	c-10	late primary spermatocytes	429	TRUE
+testis	testis	c-11	early spermatids	418	TRUE
+testis	testis	c-12	peritubular myoid cells	416	TRUE
+testis	testis	c-13	macrophages	385	TRUE
+testis	testis	c-14	early primary spermatocytes	385	TRUE
+testis	testis	c-15	early primary spermatocytes	353	TRUE
+testis	testis	c-16	late primary spermatocytes	350	TRUE
+testis	testis	c-17	undifferentiated spermatogonia	341	TRUE
+testis	testis	c-18	late spermatids	334	TRUE
+testis	testis	c-19	vascular endothelial cells	318	TRUE
+testis	testis	c-20	peritubular myoid cells	283	TRUE
+testis	testis	c-21	leydig cells	261	TRUE
+testis	testis	c-22	early spermatids	222	TRUE
+testis	testis	c-23	vascular endothelial cells	207	TRUE
+testis	testis	c-24	sertoli cells	201	TRUE
+testis	testis	c-25	macrophages	186	TRUE
+testis	testis	c-26	undifferentiated spermatogonia	169	TRUE
+testis	testis	c-27	late primary spermatocytes	141	TRUE
+testis	testis	c-28	vascular endothelial cells	118	TRUE
+testis	testis	c-29	mixed cell types	106	FALSE
+testis	testis	c-30	pericytes	67	TRUE
+testis	testis	c-31	t-cells	63	TRUE
+testis	testis	c-32	lymphatic endothelial cells	59	TRUE
+testis	testis	c-33	sertoli cells	51	TRUE
+testis	testis	c-34	vascular smooth muscle cells	22	FALSE
+testis	testis	c-35	mixed cell types	16	FALSE
+testis	testis	c-36	myofibroblast-like cells	15	FALSE
+testis	testis	c-37	schwann cells	8	FALSE
+thymus	thymus	c-0	t-cells	4398	TRUE
+thymus	thymus	c-1	fibroblasts	4107	TRUE
+thymus	thymus	c-2	b-cells	3742	TRUE
+thymus	thymus	c-3	neutrophils	2797	TRUE
+thymus	thymus	c-4	t-cells	2307	TRUE
+thymus	thymus	c-5	t-cells	2146	TRUE
+thymus	thymus	c-6	vascular endothelial cells	1825	TRUE
+thymus	thymus	c-7	b-cells	1424	TRUE
+thymus	thymus	c-8	t-cells	1408	TRUE
+thymus	thymus	c-9	vascular endothelial cells	1394	TRUE
+thymus	thymus	c-10	monocytes	1158	TRUE
+thymus	thymus	c-11	fibroblasts	851	TRUE
+thymus	thymus	c-12	t-cells	799	TRUE
+thymus	thymus	c-13	vascular smooth muscle cells	684	TRUE
+thymus	thymus	c-14	vascular endothelial cells	531	TRUE
+thymus	thymus	c-15	macrophages	516	TRUE
+thymus	thymus	c-16	pericytes	488	TRUE
+thymus	thymus	c-17	neutrophil progenitors	458	TRUE
+thymus	thymus	c-18	plasma cells	440	TRUE
+thymus	thymus	c-19	t-cells	431	TRUE
+thymus	thymus	c-20	nk-cells	408	TRUE
+thymus	thymus	c-21	fibroblasts	333	TRUE
+thymus	thymus	c-22	t-cells	322	TRUE
+thymus	thymus	c-23	lymphatic endothelial cells	137	TRUE
+thymus	thymus	c-24	innate lymphoid cells	109	TRUE
+thymus	thymus	c-25	thymic myoid cells	60	TRUE
+thymus	thymus	c-26	thymocytes	52	TRUE
+thymus	thymus	c-27	mesothelial cells	47	TRUE
+thymus	thymus	c-28	mast cells	25	FALSE
+thymus	thymus	c-29	medullary thymic epithelial cells	25	TRUE
+thymus	thymus	c-30	mast cells	14	FALSE
+tongue	tongue	c-0	basal keratinocytes	3859	TRUE
+tongue	tongue	c-1	suprabasal keratinocytes	3445	TRUE
+tongue	tongue	c-2	suprabasal keratinocytes	2964	TRUE
+tongue	tongue	c-3	basal keratinocytes	2457	TRUE
+tongue	tongue	c-4	suprabasal keratinocytes	1609	TRUE
+tongue	tongue	c-5	basal keratinocytes	1089	TRUE
+tongue	tongue	c-6	t-cells	962	TRUE
+tongue	tongue	c-7	suprabasal keratinocytes	708	TRUE
+tongue	tongue	c-8	fibroblasts	557	TRUE
+tongue	tongue	c-9	fibroblasts	498	TRUE
+tongue	tongue	c-10	t-cells	463	TRUE
+tongue	tongue	c-11	suprabasal keratinocytes	423	TRUE
+tongue	tongue	c-12	macrophages	419	TRUE
+tongue	tongue	c-13	t-cells	416	TRUE
+tongue	tongue	c-14	vascular endothelial cells	349	TRUE
+tongue	tongue	c-15	vascular endothelial cells	265	TRUE
+tongue	tongue	c-16	t-cells	246	TRUE
+tongue	tongue	c-17	suprabasal keratinocytes	237	FALSE
+tongue	tongue	c-18	suprabasal keratinocytes	167	FALSE
+tongue	tongue	c-19	pericytes	151	TRUE
+tongue	tongue	c-20	vascular smooth muscle cells	145	TRUE
+tongue	tongue	c-21	vascular endothelial cells	116	TRUE
+tongue	tongue	c-22	mast cells	106	TRUE
+tongue	tongue	c-23	myosatellite cells	97	TRUE
+tongue	tongue	c-24	lymphatic endothelial cells	91	TRUE
+tongue	tongue	c-25	schwann cells	61	TRUE
+tongue	tongue	c-26	salivary acinar cells	38	FALSE
+tongue	tongue	c-27	neutrophils	31	FALSE
+tongue	tongue	c-28	monocytes	30	TRUE
+tongue	tongue	c-29	nk-cells	29	FALSE
+tongue	tongue	c-30	b-cells	26	FALSE
+tongue	tongue	c-31	fibroblasts	24	FALSE
+urinary bladder	urinary bladder	c-0	fibroblasts	6775	TRUE
+urinary bladder	urinary bladder	c-1	urothelial cells	4000	TRUE
+urinary bladder	urinary bladder	c-2	urothelial cells	3422	TRUE
+urinary bladder	urinary bladder	c-3	urothelial cells	2981	TRUE
+urinary bladder	urinary bladder	c-4	t-cells	2909	TRUE
+urinary bladder	urinary bladder	c-5	urothelial cells	2891	TRUE
+urinary bladder	urinary bladder	c-6	urothelial cells	2155	TRUE
+urinary bladder	urinary bladder	c-7	urothelial cells	2126	TRUE
+urinary bladder	urinary bladder	c-8	fibroblasts	1904	TRUE
+urinary bladder	urinary bladder	c-9	macrophages	1775	TRUE
+urinary bladder	urinary bladder	c-10	urothelial cells	1774	TRUE
+urinary bladder	urinary bladder	c-11	fibroblasts	1659	TRUE
+urinary bladder	urinary bladder	c-12	t-cells	1588	TRUE
+urinary bladder	urinary bladder	c-13	fibroblasts	1367	TRUE
+urinary bladder	urinary bladder	c-14	mast cells	1278	TRUE
+urinary bladder	urinary bladder	c-15	macrophages	1177	TRUE
+urinary bladder	urinary bladder	c-16	macrophages	1135	TRUE
+urinary bladder	urinary bladder	c-17	monocytes	1112	TRUE
+urinary bladder	urinary bladder	c-18	fibroblasts	865	TRUE
+urinary bladder	urinary bladder	c-19	smooth muscle cells	754	TRUE
+urinary bladder	urinary bladder	c-20	t-cells	639	TRUE
+urinary bladder	urinary bladder	c-21	vascular smooth muscle cells	617	TRUE
+urinary bladder	urinary bladder	c-22	plasma cells	412	TRUE
+urinary bladder	urinary bladder	c-23	nk-cells	412	TRUE
+urinary bladder	urinary bladder	c-24	fibroblasts	371	TRUE
+urinary bladder	urinary bladder	c-25	t-cells	242	FALSE
+urinary bladder	urinary bladder	c-26	b-cells	241	TRUE
+urinary bladder	urinary bladder	c-27	t-cells	191	TRUE
+urinary bladder	urinary bladder	c-28	vascular endothelial cells	183	TRUE
+urinary bladder	urinary bladder	c-29	neutrophils	177	TRUE
+urinary bladder	urinary bladder	c-30	pericytes	129	TRUE
+urinary bladder	urinary bladder	c-31	vascular endothelial cells	111	TRUE
+urinary bladder	urinary bladder	c-32	schwann cells	97	TRUE
+urinary bladder	urinary bladder	c-33	lymphatic endothelial cells	77	TRUE
+urinary bladder	urinary bladder	c-34	innate lymphoid cells	62	TRUE
+urinary bladder	urinary bladder	c-35	vascular endothelial cells	51	TRUE
+urinary bladder	urinary bladder	c-36	vascular endothelial cells	39	TRUE
+urinary bladder	urinary bladder	c-37	t-cells	38	FALSE
+urinary bladder	urinary bladder	c-38	urothelial cells	27	FALSE
+vasculature	vasculature	c-0	fibroblasts	1738	TRUE
+vasculature	vasculature	c-1	vascular endothelial cells	1738	TRUE
+vasculature	vasculature	c-2	vascular smooth muscle cells	1675	TRUE
+vasculature	vasculature	c-3	fibroblasts	1671	TRUE
+vasculature	vasculature	c-4	macrophages	1617	TRUE
+vasculature	vasculature	c-5	vascular smooth muscle cells	1590	TRUE
+vasculature	vasculature	c-6	macrophages	1442	TRUE
+vasculature	vasculature	c-7	vascular smooth muscle cells	1166	TRUE
+vasculature	vasculature	c-8	neutrophils	864	TRUE
+vasculature	vasculature	c-9	fibroblasts	849	TRUE
+vasculature	vasculature	c-10	vascular endothelial cells	720	TRUE
+vasculature	vasculature	c-11	pericytes	702	TRUE
+vasculature	vasculature	c-12	fibroblasts	598	TRUE
+vasculature	vasculature	c-13	vascular endothelial cells	540	TRUE
+vasculature	vasculature	c-14	vascular smooth muscle cells	455	TRUE
+vasculature	vasculature	c-15	nk-cells	449	TRUE
+vasculature	vasculature	c-16	fibroblasts	437	TRUE
+vasculature	vasculature	c-17	monocytes	378	TRUE
+vasculature	vasculature	c-18	t-cells	369	TRUE
+vasculature	vasculature	c-19	schwann cells	365	TRUE
+vasculature	vasculature	c-20	t-cells	322	TRUE
+vasculature	vasculature	c-21	vascular smooth muscle cells	223	TRUE
+vasculature	vasculature	c-22	fibroblasts	214	TRUE
+vasculature	vasculature	c-23	mast cells	149	TRUE
+vasculature	vasculature	c-24	lymphatic endothelial cells	84	TRUE
+vasculature	vasculature	c-25	macrophages	49	FALSE
+vasculature	vasculature	c-26	b-cells	17	FALSE

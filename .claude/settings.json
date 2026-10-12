@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript .claude/skills/hpa-gene-expression/scripts/hpa_plot.R:*)",
+      "WebFetch(domain:www.proteinatlas.org)"
+    ]
+  }
+}

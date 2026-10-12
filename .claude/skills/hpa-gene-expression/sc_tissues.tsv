@@ -1,0 +1,35 @@
+web_tissue	label	pos
+thymus	Thymus	1
+spleen	Spleen	2
+lymph node	Lymph node	3
+bone marrow	Bone marrow	4
+blood	Blood	5
+skin	Skin	6
+adipose tissue	Adipose tissue*	7
+vasculature	Vasculature	8
+skeletal muscle	Skeletal muscle*	9
+heart muscle	Heart muscle*	10
+placenta	Placenta	11
+endometrium	Endometrium	12
+fallopian tube	Fallopian tube	13
+ovary	Ovary	14
+breast	Breast	15
+prostate	Prostate	16
+epididymis	Epididymis	17
+testis	Testis	18
+urinary bladder	Urinary bladder	19
+kidney	Kidney*	20
+pancreas	Pancreas	21
+liver	Liver	22
+rectum	Rectum	23
+colon	Colon	24
+small intestine	Small intestine	25
+stomach	Stomach	26
+esophagus	Esophagus	27
+salivary gland	Salivary gland	28
+tongue	Tongue	29
+lung	Lung	30
+pituitary gland	Pituitary gland*	31
+adrenal gland	Adrenal gland*	32
+eye	Eye	33
+brain	Brain*	34

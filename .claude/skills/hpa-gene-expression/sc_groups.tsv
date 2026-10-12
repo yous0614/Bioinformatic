@@ -1,0 +1,155 @@
+fine	label	fine_pos	group	pos	legend	color
+lacrimal acinar cells	Lacrimal acinar cells	1	Acinar cells	21	Glandular epithelial cells	#1F77B4
+salivary acinar cells	Salivary acinar cells	2	Acinar cells	21	Glandular epithelial cells	#1F77B4
+pancreatic acinar cells	Pancreatic acinar cells	3	Acinar cells	21	Glandular epithelial cells	#1F77B4
+adipocytes	Adipocytes	1	Adipocytes	35	Mesenchymal cells	#E57D25
+adrenal cortex cells	Adrenal cortex cells	1	Adrenal endocrine cells	3	Endocrine cells	#A794B2
+adrenal medulla cells	Adrenal medulla cells	2	Adrenal endocrine cells	3	Endocrine cells	#A794B2
+alveolar cells type 1	Alveolar cells type 1	1	Alveolar cells	12	Specialized epithelial cells	#6FA7DA
+alveolar cells type 2	Alveolar cells type 2	2	Alveolar cells	12	Specialized epithelial cells	#6FA7DA
+transitional alveolar cells	Transitional alveolar cells	3	Alveolar cells	12	Specialized epithelial cells	#6FA7DA
+esophageal apical cells	Esophageal apical cells	1	Apical squamous epithelial cells	8	Squamous epithelial cells	#F69799
+b-cells	B-cells	1	B-cells	45	Blood and immune cells	#D52928
+ocular epithelial cells	Ocular epithelial cells	1	Barrier epithelial cells	13	Specialized epithelial cells	#6FA7DA
+mesothelial cells	Mesothelial cells	2	Barrier epithelial cells	13	Specialized epithelial cells	#6FA7DA
+urothelial cells	Urothelial cells	3	Barrier epithelial cells	13	Specialized epithelial cells	#6FA7DA
+epicardial cells	Epicardial cells	4	Barrier epithelial cells	13	Specialized epithelial cells	#6FA7DA
+prostatic hillock cells	Prostatic hillock cells	5	Barrier epithelial cells	13	Specialized epithelial cells	#6FA7DA
+respiratory basal cells	Respiratory basal cells	1	Basal cells	20	Specialized epithelial cells	#6FA7DA
+esophageal basal cells	Esophageal basal cells	2	Basal cells	20	Specialized epithelial cells	#6FA7DA
+salivary basal cells	Salivary basal cells	3	Basal cells	20	Specialized epithelial cells	#6FA7DA
+basal keratinocytes	Basal keratinocytes	4	Basal cells	20	Specialized epithelial cells	#6FA7DA
+epididymal basal cells	Epididymal basal cells	5	Basal cells	20	Specialized epithelial cells	#6FA7DA
+basal prostatic cells	Basal prostatic cells	6	Basal cells	20	Specialized epithelial cells	#6FA7DA
+ependymal cells	Ependymal cells	1	Ciliated cells	11	Ciliated cells	#8FBC8F
+choroid plexus epithelial cells	Choroid plexus epithelial cells	2	Ciliated cells	11	Ciliated cells	#8FBC8F
+respiratory ciliated cells	Respiratory ciliated cells	3	Ciliated cells	11	Ciliated cells	#8FBC8F
+respiratory deuterosomal cells	Respiratory deuterosomal cells	4	Ciliated cells	11	Ciliated cells	#8FBC8F
+epididymal efferent duct ciliated cells	Epididymal efferent duct ciliated cells	5	Ciliated cells	11	Ciliated cells	#8FBC8F
+fallopian tube ciliated cells	Fallopian tube ciliated cells	6	Ciliated cells	11	Ciliated cells	#8FBC8F
+endometrial ciliated cells	Endometrial ciliated cells	7	Ciliated cells	11	Ciliated cells	#8FBC8F
+cdc	CDC	1	Dendritic cells	47	Blood and immune cells	#D52928
+pdcs	PDCs	2	Dendritic cells	47	Blood and immune cells	#D52928
+salivary duct cells	Salivary duct cells	1	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+cholangiocytes	Cholangiocytes	2	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+pancreatic duct cells	Pancreatic duct cells	3	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+renal collecting duct intercalated cells	Renal collecting duct intercalated cells	4	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+renal collecting duct principal cells	Renal collecting duct principal cells	5	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+renal connecting tubule cells	Renal connecting tubule cells	6	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+epididymal efferent duct absorptive cells	Epididymal efferent duct absorptive cells	7	Ductal cells	16	Specialized epithelial cells	#6FA7DA
+vascular endothelial cells	Vascular endothelial cells	1	Endothelial cells	33	Endothelial and mural cells	#984F9F
+lymphatic endothelial cells	Lymphatic endothelial cells	2	Endothelial cells	33	Endothelial and mural cells	#984F9F
+enterocytes	Enterocytes	1	Enterocytes	23	Glandular epithelial cells	#1F77B4
+colonocytes	Colonocytes	2	Enterocytes	23	Glandular epithelial cells	#1F77B4
+neuroendocrine cells	Neuroendocrine cells	1	Enteroendocrine cells	5	Endocrine cells	#A794B2
+erythrocyte progenitors	Erythrocyte progenitors	1	Erythrocytes	51	Blood and immune cells	#D52928
+erythrocytes	Erythrocytes	2	Erythrocytes	51	Blood and immune cells	#D52928
+fibro-adipogenic progenitors	Fibro-adipogenic progenitors	1	Fibro-adipogenic progenitors	36	Mesenchymal cells	#E57D25
+fibroblasts	Fibroblasts	1	Fibroblasts	37	Mesenchymal cells	#E57D25
+foveolar cells	Foveolar cells	1	Gastric glandular cells	22	Glandular epithelial cells	#1F77B4
+mucous neck cells	Mucous neck cells	2	Gastric glandular cells	22	Glandular epithelial cells	#1F77B4
+parietal cells	Parietal cells	3	Gastric glandular cells	22	Glandular epithelial cells	#1F77B4
+gastric chief cells	Gastric chief cells	4	Gastric glandular cells	22	Glandular epithelial cells	#1F77B4
+submucosal glandular cells	Submucosal glandular cells	1	Glandular cells	24	Glandular epithelial cells	#1F77B4
+prostatic glandular cells	Prostatic glandular cells	2	Glandular cells	24	Glandular epithelial cells	#1F77B4
+prostatic club cells	Prostatic club cells	3	Glandular cells	24	Glandular epithelial cells	#1F77B4
+endometrial glandular cells	Endometrial glandular cells	4	Glandular cells	24	Glandular epithelial cells	#1F77B4
+astrocytes	Astrocytes	1	Glial cells	2	Glial cells	#C68641
+bergmann glia	Bergmann glia	2	Glial cells	2	Glial cells	#C68641
+müller glia	Müller glia	3	Glial cells	2	Glial cells	#C68641
+pituicytes/fscs	Pituicytes/FSCs	4	Glial cells	2	Glial cells	#C68641
+oligodendrocyte progenitor cells	Oligodendrocyte progenitor cells	5	Glial cells	2	Glial cells	#C68641
+oligodendrocytes	Oligodendrocytes	6	Glial cells	2	Glial cells	#C68641
+schwann cells	Schwann cells	7	Glial cells	2	Glial cells	#C68641
+microglia	Microglia	8	Glial cells	2	Glial cells	#C68641
+conjunctival goblet cells	Conjunctival goblet cells	1	Goblet cells	25	Glandular epithelial cells	#1F77B4
+goblet cells	Goblet cells	2	Goblet cells	25	Glandular epithelial cells	#1F77B4
+hepatocytes	Hepatocytes	1	Hepatocytes	17	Specialized epithelial cells	#6FA7DA
+innate lymphoid cells	Innate lymphoid cells	1	Innate lymphoid cells	44	Blood and immune cells	#D52928
+respiratory ionocytes	Respiratory ionocytes	1	Ionocytes	14	Specialized epithelial cells	#6FA7DA
+salivary ionocytes	Salivary ionocytes	2	Ionocytes	14	Specialized epithelial cells	#6FA7DA
+leydig cells	Leydig cells	1	Leydig cells	7	Endocrine cells	#A794B2
+breast hormone-responsive cells	Breast hormone-responsive cells	1	Luminal cells	27	Glandular epithelial cells	#1F77B4
+endometrial luminal cells	Endometrial luminal cells	2	Luminal cells	27	Glandular epithelial cells	#1F77B4
+mast cells	Mast cells	1	Mast cells	40	Blood and immune cells	#D52928
+megakaryocyte progenitors	Megakaryocyte progenitors	1	Megakaryocytes	49	Blood and immune cells	#D52928
+megakaryocyte-erythroid progenitors	Megakaryocyte-Erythroid progenitors	2	Megakaryocytes	49	Blood and immune cells	#D52928
+megakaryocytes	Megakaryocytes	3	Megakaryocytes	49	Blood and immune cells	#D52928
+monocyte progenitors	Monocyte progenitors	1	Mononuclear phagocytes	42	Blood and immune cells	#D52928
+monocytes	Monocytes	2	Mononuclear phagocytes	42	Blood and immune cells	#D52928
+macrophages	Macrophages	3	Mononuclear phagocytes	42	Blood and immune cells	#D52928
+kupffer cells	Kupffer cells	4	Mononuclear phagocytes	42	Blood and immune cells	#D52928
+hofbauer cells	Hofbauer cells	5	Mononuclear phagocytes	42	Blood and immune cells	#D52928
+pericytes	Pericytes	1	Mural cells	34	Endothelial and mural cells	#984F9F
+vascular smooth muscle cells	Vascular smooth muscle cells	2	Mural cells	34	Endothelial and mural cells	#984F9F
+cardiomyocytes	Cardiomyocytes	1	Myocytes	31	Muscle cells	#7A4D3A
+myonuclei	Myonuclei	2	Myocytes	31	Muscle cells	#7A4D3A
+brain excitatory neurons	Brain excitatory neurons	1	Neuronal cells	1	Neuronal cells	#FFCD05
+brain inhibitory neurons	Brain inhibitory neurons	2	Neuronal cells	1	Neuronal cells	#FFCD05
+retinal amacrine cells	Retinal amacrine cells	3	Neuronal cells	1	Neuronal cells	#FFCD05
+retinal horizontal cells	Retinal horizontal cells	4	Neuronal cells	1	Neuronal cells	#FFCD05
+retinal ganglion cells	Retinal ganglion cells	5	Neuronal cells	1	Neuronal cells	#FFCD05
+retinal bipolar cells	Retinal bipolar cells	6	Neuronal cells	1	Neuronal cells	#FFCD05
+rod photoreceptor cells	Rod photoreceptor cells	7	Neuronal cells	1	Neuronal cells	#FFCD05
+cone photoreceptor cells	Cone photoreceptor cells	8	Neuronal cells	1	Neuronal cells	#FFCD05
+other brain neurons	Other brain neurons	9	Neuronal cells	1	Neuronal cells	#FFCD05
+neutrophil progenitors	Neutrophil progenitors	1	Neutrophils	41	Blood and immune cells	#D52928
+neutrophils	Neutrophils	2	Neutrophils	41	Blood and immune cells	#D52928
+nk-cells	NK-cells	1	Nk-cells	48	Blood and immune cells	#D52928
+oocytes	Oocytes	1	Oocytes	29	Germ cells	#2DA048
+pancreatic islet cells	Pancreatic islet cells	1	Pancreatic islet cells	6	Endocrine cells	#A794B2
+melanocytes	Melanocytes	1	Pigment cells	10	Pigment cells	#1DBFCF
+retinal pigment epithelial cells	Retinal pigment epithelial cells	2	Pigment cells	10	Pigment cells	#1DBFCF
+corticotrophs	Corticotrophs	1	Pituitary endocrine cells	4	Endocrine cells	#A794B2
+gonadotrophs	Gonadotrophs	2	Pituitary endocrine cells	4	Endocrine cells	#A794B2
+lactotrophs	Lactotrophs	3	Pituitary endocrine cells	4	Endocrine cells	#A794B2
+somatotrophs	Somatotrophs	4	Pituitary endocrine cells	4	Endocrine cells	#A794B2
+thyrotrophs	Thyrotrophs	5	Pituitary endocrine cells	4	Endocrine cells	#A794B2
+plasma cells	Plasma cells	1	Plasma cells	46	Blood and immune cells	#D52928
+platelets	Platelets	1	Platelets	50	Blood and immune cells	#D52928
+gastric progenitor cells	Gastric progenitor cells	1	Proliferating cells	52	Stem and proliferating cells	#F5E6A0
+enteric transient amplifying cells	Enteric transient amplifying cells	2	Proliferating cells	52	Stem and proliferating cells	#F5E6A0
+podocytes	Podocytes	1	Renal nephron cells	18	Specialized epithelial cells	#6FA7DA
+proximal tubule cells	Proximal tubule cells	2	Renal nephron cells	18	Specialized epithelial cells	#6FA7DA
+loop of henle epithelial cells	Loop of henle epithelial cells	3	Renal nephron cells	18	Specialized epithelial cells	#6FA7DA
+papillary tip epithelial cells	Papillary tip epithelial cells	4	Renal nephron cells	18	Specialized epithelial cells	#6FA7DA
+distal convoluted tubule cells	Distal convoluted tubule cells	5	Renal nephron cells	18	Specialized epithelial cells	#6FA7DA
+sertoli cells	Sertoli cells	1	Reproductive supporting cells	19	Specialized epithelial cells	#6FA7DA
+epididymal clear cells	Epididymal clear cells	2	Reproductive supporting cells	19	Specialized epithelial cells	#6FA7DA
+epididymal principal cells	Epididymal principal cells	3	Reproductive supporting cells	19	Specialized epithelial cells	#6FA7DA
+granulosa cells	Granulosa cells	4	Reproductive supporting cells	19	Specialized epithelial cells	#6FA7DA
+respiratory secretory cells	Respiratory secretory cells	1	Secretory cells	26	Glandular epithelial cells	#1F77B4
+breast secretory cells	Breast secretory cells	2	Secretory cells	26	Glandular epithelial cells	#1F77B4
+breast lactating cells	Breast lactating cells	3	Secretory cells	26	Glandular epithelial cells	#1F77B4
+fallopian secretory cells	Fallopian secretory cells	4	Secretory cells	26	Glandular epithelial cells	#1F77B4
+endometrial secretory cells	Endometrial secretory cells	5	Secretory cells	26	Glandular epithelial cells	#1F77B4
+salivary myoepithelial cells	Salivary myoepithelial cells	1	Secretory gland support	15	Specialized epithelial cells	#6FA7DA
+paneth cells	Paneth cells	2	Secretory gland support	15	Specialized epithelial cells	#6FA7DA
+tuft cells	Tuft cells	3	Secretory gland support	15	Specialized epithelial cells	#6FA7DA
+breast myoepithelial cells	Breast myoepithelial cells	4	Secretory gland support	15	Specialized epithelial cells	#6FA7DA
+medullary thymic epithelial cells	Medullary thymic epithelial cells	5	Secretory gland support	15	Specialized epithelial cells	#6FA7DA
+smooth muscle cells	Smooth muscle cells	1	Smooth muscle cells	32	Muscle cells	#7A4D3A
+undifferentiated spermatogonia	Undifferentiated spermatogonia	1	Spermatogenic cell types	28	Germ cells	#2DA048
+differentiating spermatogonia	Differentiating spermatogonia	2	Spermatogenic cell types	28	Germ cells	#2DA048
+early primary spermatocytes	Early primary spermatocytes	3	Spermatogenic cell types	28	Germ cells	#2DA048
+late primary spermatocytes	Late primary spermatocytes	4	Spermatogenic cell types	28	Germ cells	#2DA048
+early spermatids	Early spermatids	5	Spermatogenic cell types	28	Germ cells	#2DA048
+late spermatids	Late spermatids	6	Spermatogenic cell types	28	Germ cells	#2DA048
+hepatic stellate cells	Hepatic stellate cells	1	Stellate cells	38	Mesenchymal cells	#E57D25
+pituitary stem cells	Pituitary stem cells	1	Stem cells	53	Stem and proliferating cells	#F5E6A0
+enteric stem cells	Enteric stem cells	2	Stem cells	53	Stem and proliferating cells	#F5E6A0
+myosatellite cells	Myosatellite cells	3	Stem cells	53	Stem and proliferating cells	#F5E6A0
+hematopoietic stem cells	Hematopoietic stem cells	4	Stem cells	53	Stem and proliferating cells	#F5E6A0
+peritubular myoid cells	Peritubular myoid cells	1	Stromal cells	39	Mesenchymal cells	#E57D25
+ovarian stromal cells	Ovarian stromal cells	2	Stromal cells	39	Mesenchymal cells	#E57D25
+endometrial stromal cells	Endometrial stromal cells	3	Stromal cells	39	Mesenchymal cells	#E57D25
+decidual stromal cells	Decidual stromal cells	4	Stromal cells	39	Mesenchymal cells	#E57D25
+thymic myoid cells	Thymic myoid cells	5	Stromal cells	39	Mesenchymal cells	#E57D25
+esophageal suprabasal cells	Esophageal suprabasal cells	1	Suprabasal cells	9	Squamous epithelial cells	#F69799
+suprabasal keratinocytes	Suprabasal keratinocytes	2	Suprabasal cells	9	Squamous epithelial cells	#F69799
+t-cells	T-cells	1	T-cells	43	Blood and immune cells	#D52928
+thymocytes	Thymocytes	2	T-cells	43	Blood and immune cells	#D52928
+cytotrophoblasts	Cytotrophoblasts	1	Trophoblast cells	30	Trophoblast cells	#D879B1
+migrating cytotrophoblasts	Migrating cytotrophoblasts	2	Trophoblast cells	30	Trophoblast cells	#D879B1
+syncytiotrophoblasts	Syncytiotrophoblasts	3	Trophoblast cells	30	Trophoblast cells	#D879B1
+extravillous trophoblasts	Extravillous trophoblasts	4	Trophoblast cells	30	Trophoblast cells	#D879B1

@@ -1,0 +1,86 @@
+dataset	key	pos	group	color
+brain_sn	amygdala excitatory	1	Neuronal cells	#FFCD05
+brain_sn	cerebellar inhibitory	2	Neuronal cells	#FFCD05
+brain_sn	cge interneuron	3	Neuronal cells	#FFCD05
+brain_sn	deep-layer corticothalamic and 6b	4	Neuronal cells	#FFCD05
+brain_sn	deep-layer intratelencephalic	5	Neuronal cells	#FFCD05
+brain_sn	deep-layer near-projecting	6	Neuronal cells	#FFCD05
+brain_sn	eccentric medium spiny neuron	7	Neuronal cells	#FFCD05
+brain_sn	hippocampal ca1-3	8	Neuronal cells	#FFCD05
+brain_sn	hippocampal ca4	9	Neuronal cells	#FFCD05
+brain_sn	hippocampal dentate gyrus	10	Neuronal cells	#FFCD05
+brain_sn	lamp5-lhx6 and chandelier	11	Neuronal cells	#FFCD05
+brain_sn	lower rhombic lip	12	Neuronal cells	#FFCD05
+brain_sn	mammillary body	13	Neuronal cells	#FFCD05
+brain_sn	medium spiny neuron	14	Neuronal cells	#FFCD05
+brain_sn	mge interneuron	15	Neuronal cells	#FFCD05
+brain_sn	midbrain-derived inhibitory	16	Neuronal cells	#FFCD05
+brain_sn	miscellaneous	17	Neuronal cells	#FFCD05
+brain_sn	splatter	18	Neuronal cells	#FFCD05
+brain_sn	thalamic excitatory	19	Neuronal cells	#FFCD05
+brain_sn	upper rhombic lip	20	Neuronal cells	#FFCD05
+brain_sn	upper-layer intratelencephalic	21	Neuronal cells	#FFCD05
+brain_sn	astrocyte	22	Glial cells	#C68641
+brain_sn	bergmann glia	23	Glial cells	#C68641
+brain_sn	central nervous system macrophage	24	Glial cells	#C68641
+brain_sn	committed oligodendrocyte precursor	25	Glial cells	#C68641
+brain_sn	oligodendrocyte	26	Glial cells	#C68641
+brain_sn	oligodendrocyte precursor cell	27	Glial cells	#C68641
+brain_sn	ependymal cell	28	Ciliated cells	#8FBC8F
+brain_sn	choroid plexus epithelial cell	29	Ciliated cells	#8FBC8F
+brain_sn	endothelial cell	30	Endothelial and mural cells	#984F9F
+brain_sn	pericyte	31	Endothelial and mural cells	#984F9F
+brain_sn	vascular associated smooth muscle cell	32	Endothelial and mural cells	#984F9F
+brain_sn	fibroblast	33	Mesenchymal cells	#E57D25
+brain_sn	leukocyte	34	Blood and immune cells	#D52928
+tissue	cerebral cortex	1	Brain	#FBBC18
+tissue	cerebellum	2	Brain	#FBBC18
+tissue	basal ganglia	3	Brain	#FBBC18
+tissue	hypothalamus	4	Brain	#FBBC18
+tissue	midbrain	5	Brain	#FBBC18
+tissue	amygdala	6	Brain	#FBBC18
+tissue	choroid plexus	7	Brain	#FBBC18
+tissue	hippocampal formation	8	Brain	#FBBC18
+tissue	spinal cord	9	Brain	#FBBC18
+tissue	retina	10	Eye	#F9EF79
+tissue	thyroid gland	11	Endocrine tissues	#D1CBE4
+tissue	parathyroid gland	12	Endocrine tissues	#D1CBE4
+tissue	adrenal gland	13	Endocrine tissues	#D1CBE4
+tissue	pituitary gland	14	Endocrine tissues	#D1CBE4
+tissue	lung	15	Respiratory system	#8FBC8F
+tissue	salivary gland	16	Proximal digestive tract	#F29699
+tissue	esophagus	17	Proximal digestive tract	#F29699
+tissue	tongue	18	Proximal digestive tract	#F29699
+tissue	stomach	19	Gastrointestinal tract	#1A77B4
+tissue	duodenum	20	Gastrointestinal tract	#1A77B4
+tissue	small intestine	21	Gastrointestinal tract	#1A77B4
+tissue	colon	22	Gastrointestinal tract	#1A77B4
+tissue	rectum	23	Gastrointestinal tract	#1A77B4
+tissue	liver	24	Liver & Gallbladder	#37989B
+tissue	gallbladder	25	Liver & Gallbladder	#37989B
+tissue	pancreas	26	Pancreas	#483D8B
+tissue	kidney	27	Kidney & Urinary bladder	#F7C0D9
+tissue	urinary bladder	28	Kidney & Urinary bladder	#F7C0D9
+tissue	testis	29	Male reproductive system	#19915E
+tissue	epididymis	30	Male reproductive system	#19915E
+tissue	seminal vesicle	31	Male reproductive system	#19915E
+tissue	prostate	32	Male reproductive system	#19915E
+tissue	vagina	33	Breast & female reproductive system	#906BA6
+tissue	ovary	34	Breast & female reproductive system	#906BA6
+tissue	fallopian tube	35	Breast & female reproductive system	#906BA6
+tissue	endometrium	36	Breast & female reproductive system	#906BA6
+tissue	cervix	37	Breast & female reproductive system	#906BA6
+tissue	placenta	38	Breast & female reproductive system	#906BA6
+tissue	breast	39	Breast & female reproductive system	#906BA6
+tissue	blood vessel	40	Muscle & Vascular tissue	#7B4D3A
+tissue	heart muscle	41	Muscle & Vascular tissue	#7B4D3A
+tissue	smooth muscle	42	Muscle & Vascular tissue	#7B4D3A
+tissue	skeletal muscle	43	Muscle & Vascular tissue	#7B4D3A
+tissue	adipose tissue	44	Connective & Soft tissue	#E67C20
+tissue	skin	45	Skin	#27B9CB
+tissue	appendix	46	Bone marrow & Lymphoid tissues	#D62328
+tissue	spleen	47	Bone marrow & Lymphoid tissues	#D62328
+tissue	lymph node	48	Bone marrow & Lymphoid tissues	#D62328
+tissue	tonsil	49	Bone marrow & Lymphoid tissues	#D62328
+tissue	bone marrow	50	Bone marrow & Lymphoid tissues	#D62328
+tissue	thymus	51	Bone marrow & Lymphoid tissues	#D62328
